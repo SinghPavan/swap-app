@@ -1,0 +1,209 @@
+[
+    {
+        "offsetActivity": "Walk or bike instead of driving",
+        "description": "Choose walking or biking for short trips to reduce carbon emissions and improve personal health.",
+        "health": 5,
+        "wellbeing": 5,
+        "affordability": 5,
+        "sustainability": 5,
+        "community": 0
+    },
+    {
+        "offsetActivity": "Reduce electricity usage (turn off lights, unplug devices)",
+        "description": "Be mindful of electricity use by turning off lights and unplugging devices when not in use. This lowers energy bills and reduces carbon emissions.",
+        "health": 0,
+        "wellbeing": 0,
+        "affordability": 5,
+        "sustainability": 5,
+        "community": 0
+    },
+    {
+        "offsetActivity": "Use renewable energy sources",
+        "description": "Support renewable energy sources like solar or wind power to reduce reliance on fossil fuels and lower greenhouse gas emissions.",
+        "health": 0,
+        "wellbeing": 4,
+        "affordability": 0,
+        "sustainability": 5,
+        "community": 5
+    },
+    {
+        "offsetActivity": "Participate in reforestation efforts",
+        "description": "Plant trees and support reforestation projects to combat deforestation and mitigate climate change.",
+        "health": 0,
+        "wellbeing": 0,
+        "affordability": 0,
+        "sustainability": 5,
+        "community": 5
+    },
+    {
+        "offsetActivity": "Donate to environmental organizations",
+        "description": "Contribute to environmental organizations to support their vital work in conservation and sustainability.",
+        "health": 0,
+        "wellbeing": 0,
+        "affordability": 0,
+        "sustainability": 5,
+        "community": 5
+    },
+    {
+        "offsetActivity": "Use public transportation",
+        "description": "Opt for buses, trains, or trams to reduce your carbon footprint and ease traffic congestion.",
+        "health": 0,
+        "wellbeing": 0,
+        "affordability": 5,
+        "sustainability": 5,
+        "community": 5
+    },
+    {
+        "offsetActivity": "Reduce water usage (shorter showers, fix leaks)",
+        "description": "Conserve water by taking shorter showers and fixing leaks, helping to protect this precious resource.",
+        "health": 0,
+        "wellbeing": 0,
+        "affordability": 4,
+        "sustainability": 5,
+        "community": 0
+    },
+    {
+        "offsetActivity": "Switch to energy-efficient appliances",
+        "description": "Invest in energy-efficient appliances to save energy and money, and reduce your environmental impact.",
+        "health": 0,
+        "wellbeing": 0,
+        "affordability": 4,
+        "sustainability": 5,
+        "community": 0
+    },
+    {
+        "offsetActivity": "Reduce, reuse, and recycle",
+        "description": "Practice the 3 Rs by reducing waste, reusing items, and recycling materials to reduce landfill waste.",
+        "health": 0,
+        "wellbeing": 4,
+        "affordability": 0,
+        "sustainability": 5,
+        "community": 0
+    },
+    {
+        "offsetActivity": "Plant trees and maintain green spaces",
+        "description": "Plant trees and maintain green spaces in your community to enhance local ecosystems and air quality.",
+        "health": 0,
+        "wellbeing": 5,
+        "affordability": 0,
+        "sustainability": 5,
+        "community": 5
+    },
+    {
+        "offsetActivity": "Reduce meat consumption",
+        "description": "Cut down on meat consumption to reduce greenhouse gas emissions associated with the meat industry.",
+        "health": 5,
+        "wellbeing": 5,
+        "affordability": 4,
+        "sustainability": 5,
+        "community": 0
+    },
+    {
+        "offsetActivity": "Reduce single-use plastics",
+        "description": "Minimize single-use plastic usage by using reusable alternatives, reducing plastic pollution in oceans and landfills.",
+        "health": 0,
+        "wellbeing": 0,
+        "affordability": 0,
+        "sustainability": 5,
+        "community": 0
+    },
+    {
+        "offsetActivity": "Support local businesses and products",
+        "description": "Buy from local businesses and farmers to reduce transportation emissions and promote local economies.",
+        "health": 0,
+        "wellbeing": 0,
+        "affordability": 4,
+        "sustainability": 0,
+        "community": 5
+    },
+    {
+        "offsetActivity": "Participate in community cleanups",
+        "description": "Join clean-up events in your community to remove litter and improve the local environment.",
+        "health": 0,
+        "wellbeing": 4,
+        "affordability": 0,
+        "sustainability": 5,
+        "community": 5
+    },
+    {
+        "offsetActivity": "Buy palm oil-free products and support responsible palm oil production",
+        "description": "Choose products that are palm oil-free or support companies with sustainable palm oil sourcing to protect rainforests and wildlife.",
+        "health": 3,
+        "wellbeing": 3,
+        "affordability": 3,
+        "sustainability": 5,
+        "community": 0
+    },
+    {
+        "offsetActivity": "Carpool or rideshare",
+        "description": "Share rides with others to save on fuel, reduce emissions, and decrease traffic.",
+        "health": 0,
+        "wellbeing": 0,
+        "affordability": 5,
+        "sustainability": 5,
+        "community": 5
+    },
+    {
+        "offsetActivity": "Install low-flow faucets and toilets",
+        "description": "Upgrade to low-flow fixtures to save water and reduce water bills.",
+        "health": 0,
+        "wellbeing": 0,
+        "affordability": 3,
+        "sustainability": 5,
+        "community": 0
+    },
+    {
+        "offsetActivity": "Compost organic waste",
+        "description": "Compost food scraps and yard waste to enrich soil and reduce the amount of organic matter in landfills.",
+        "health": 0,
+        "wellbeing": 0,
+        "affordability": 0,
+        "sustainability": 5,
+        "community": 0
+    },
+    {
+        "offsetActivity": "Purchase eco-friendly products",
+        "description": "Choose products with eco-friendly certifications to support environmentally responsible manufacturing.",
+        "health": 2,
+        "wellbeing": 4,
+        "affordability": 0,
+        "sustainability": 5,
+        "community": 0
+    },
+    {
+        "offsetActivity": "Educate others on sustainability",
+        "description": "Share your knowledge with others to raise awareness and encourage sustainable practices.",
+        "health": 0,
+        "wellbeing": 0,
+        "affordability": 0,
+        "sustainability": 5,
+        "community": 5
+    },
+    {
+        "offsetActivity": "Buy secondhand clothes",
+        "description": "Opt for secondhand clothing to reduce textile waste and minimize the environmental impact of fast fashion.",
+        "health": 0,
+        "wellbeing": 0,
+        "affordability": 5,
+        "sustainability": 5,
+        "community": 0
+    },
+    {
+        "offsetActivity": "Buy local and seasonal produce",
+        "description": "Purchase locally grown and seasonal produce to reduce food miles and support regional agriculture.",
+        "health": 4,
+        "wellbeing": 4,
+        "affordability": 4,
+        "sustainability": 5,
+        "community": 5
+    },
+    {
+        "offsetActivity": "Use a reusable water bottle",
+        "description": "Ditch single-use plastic bottles by using a reusable one to reduce plastic waste.",
+        "health": 0,
+        "wellbeing": 0,
+        "affordability": 4,
+        "sustainability": 5,
+        "community": 0
+    }
+]
