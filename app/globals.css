@@ -20,9 +20,15 @@
 } */
 
 .home{
-  background: url('../public/assets/background.svg') no-repeat;
+  background: url('../public/assets/landing-background.svg') no-repeat;
   height: 100svh;
   @apply flex flex-col justify-center items-center ;
+}
+
+.signup{
+  background: url('../public/assets/signup-background.svg') no-repeat;
+  height: 100svh;
+  /* @apply flex flex-col justify-center items-center ; */
 }
 
 body {
