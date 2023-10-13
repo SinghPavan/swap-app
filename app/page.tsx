@@ -28,7 +28,7 @@ export default function Home() {
         >
           Create your account
         </Link>
-        <Link className="text-center mt-4 text-primary" href="/auth/login">
+        <Link className="text-center mt-4 text-primary" href="/auth/signup">
           Login
         </Link>
       </div>
