@@ -1,3708 +1,3566 @@
 [
-    {
-        "sku": "3274664142070",
-        "productName": "Roar Plant Based Ice Cream Hemp Seed Chocolate Brownie 500ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Plant Based",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Responsibly sourced",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "3274664173807",
-        "productName": "Roar Plant Based Ice Cream Salted Caramel & Macadamia 500ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Plant Based",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "3415587174926",
-        "productName": "Häagen-Dazs Salted Caramel Cappuccino Ice Cream 460ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "3574661450728",
-        "productName": "NEUTROGENA® T/Gel Anti-Dandruff Shampoo for Dry Hair 125ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Responsibly sourced",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "3574669909884",
-        "productName": "JOHNSON'S® No More Tangles Kids Conditioner Spray 200ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "3600522713203",
-        "productName": "L'Oreal Shampoo by Elvive Extraordinary Oil for Nourishing Dry Hair 400ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "3600523583324",
-        "productName": "L'Oreal Shampoo by Elvive Dream Lengths for Long Damaged Hair 250ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "3600523882366",
-        "productName": "L'Oreal Elvive Full Resist Anti-Breakage Fragile Hair Conditioner 300ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "3600524074524",
-        "productName": "L'Oréal Paris Elvive Bond Repair Pre-Shampoo Treatment 200ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "3600524074661",
-        "productName": "L'Oreal Paris Elvive Bond Repair Shampoo 200ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "3600524074807",
-        "productName": "L'Oreal Paris Elvive Bond Repair Conditioner 150ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "3600524082369",
-        "productName": "L'Oreal Paris Elvive Full Resist Breakproof Detangling Conditioner with Aminexil for Hair Fall 250ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "4063528014016",
-        "productName": "Foamie Dry Shampoo Berry Brunette 40g",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "4063528014528",
-        "productName": "Vita Coco Coconut Shampoo Nourish Coconut Water 400ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "4063528014535",
-        "productName": "Vita Coco Coconut Conditioner Nourish 400ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "4063528014559",
-        "productName": "Vita Coco Coconut Shampoo Scalp Coconut & Guava 400ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "4063528014566",
-        "productName": "Vita Coco Coconut Conditioner Scalp Coconut & Guava 400ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5000128603935",
-        "productName": "Co-op Irresistible Indulgent & Creamy White Chocolate & Salted Caramel Ice Creams 3 x 100ml (300ml)",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5000128710992",
-        "productName": "Co-op Vanilla Flavour Ice Cream 900ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5000128711159",
-        "productName": "Co Op Honeycomb Ice Cream 900ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5000169023952",
-        "productName": "Essential Waitrose & Partners Vanilla Soft Scoop Ice Cream 1 Litre",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5000169595336",
-        "productName": "Waitrose & Partners Fairtrade Duchy Organic Ice Cream Vanilla 480ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Responsibly sourced",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5000169598719",
-        "productName": "Waitrose & Partners Banoffee Pie Dairy Ice Cream 500ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5010238020515",
-        "productName": "Kelly's Cornish Clotted Cream 950ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5010251712268",
-        "productName": "Morrisons Block of Vanilla Flavour Ice Cream 1 Litre",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5010251724971",
-        "productName": "Morrisons The Best Caffe Latte Ice Cream 500ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5010251931102",
-        "productName": "Morrisons Candyfloss & Apple 900ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5010386105553",
-        "productName": "Dale Farm Vanilla Flavour Ice Cream 568ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5010386105607",
-        "productName": "Dale Farm Honeycomb 900ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5010386105614",
-        "productName": "Dale Farm Creamy Vanilla 900ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5010525022246",
-        "productName": "Morrisons V Taste Chocolate Non-Dairy Ice Cream 500ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Plant Based",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5010525223612",
-        "productName": "Morrisons Plant Revolution! Salted Caramel Brownie-Licious 500ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Plant Based",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5010525223629",
-        "productName": "Morrisons Plant Revolution! Go-Go Chocolate Cookie Dough 500ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Plant Based",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5010724527511",
-        "productName": "Batiste Dry Shampoo Tropical Exotic Coconut 200ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5010724532966",
-        "productName": "Batiste Dry Shampoo & Volume with Plumping Collagen 200ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5010724533635",
-        "productName": "Batiste Dry Shampoo Fresh & Feminine Wildflower 200ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5010724537497",
-        "productName": "Batiste Dark Hair Colour Dry Shampoo 350ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5011309090611",
-        "productName": "Nizoral Anti-Dandruff Daily Prevent Shampoo 200ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5011321595200",
-        "productName": "Herbal Essences IGNITE MY COLOUR Hydrating Shampoo | Rose  Fragrance |For Coloured Hair | 400ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5011321879980",
-        "productName": "Herbal Essences Beautiful Ends Shampoo For Damaged Hair 400ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5012008551205",
-        "productName": "PRO:VOKE Touch Of Silver Purple Brightening Shampoo 50ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5012008671507",
-        "productName": "Pro:Voke Touch of Silver Purple Toning Dry Shampoo 200ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5012008713108",
-        "productName": "Pro:Voke Highlight Boost Conditioner 200ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5012008742009",
-        "productName": "Provoke Blonde Rehab Bond Repair System No1 Hair Perfector Treatment 150ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5013455031333",
-        "productName": "Weleda Lemon Balm & Orange Blossom Conditioner 250ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5013455031340",
-        "productName": "Weleda Calendula & Chamomile Shampoo 250ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5014697056924",
-        "productName": "Vosene Anti Dandruff Shampoo 200ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5014697056931",
-        "productName": "Vosene Anti Dandruff Shampoo 300ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5021952111250",
-        "productName": "Lakes Luxury Ice Cream Thunder & Lightning 1 Litre",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5021952111533",
-        "productName": "Luxury Lakes Sticky Toffee Pudding Ice Cream 1 Litre",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5027324003376",
-        "productName": "Little Moons Mochi Sorbet Refreshos Pineapple & Mandarin 6 x 32g (192g)",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Plant Based",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5027324003383",
-        "productName": "Little Moons Mochi Sorbet Refreshos Very Berry 6 x 32g (192g)",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Plant Based",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5031622077618",
-        "productName": "Porrelli Italian Gelato Toffee Ripple 10 Litres",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5035112312517",
-        "productName": "Morelli Double Cream Vanilla 3 x 125ml (375ml)",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5035112312524",
-        "productName": "Morelli Honeycomb 3 x 125ml (375ml)",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5035112950016",
-        "productName": "Morelli Double Cream Vanilla Ice Cream 950ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5036589250838",
-        "productName": "Yeo Valley Organic Vanilla Ice Cream 500ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5037156263640",
-        "productName": "John Frieda Hydrate & Recharge Conditioner 250ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5037156271539",
-        "productName": "John Frieda Frizz Ease Brazilian Sleek Frizz Immunity Conditioner 250ml for Frizzy, Medium to Coarse",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5052449483451",
-        "productName": "Asda Vanilla Ice Cream 1 Litre",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5052909539179",
-        "productName": "Tesco Vanilla Flavour Ice Cream 1 Litre",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5053526969974",
-        "productName": "Tesco Neapolitan Ice Cream 1 Litre",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5054070692172",
-        "productName": "Asda Really Creamy Vanilla Light 900ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5054805039722",
-        "productName": "Vosene Anti Dandruff Shampoo 500ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5057172029709",
-        "productName": "Asda Galactic Ice Cream 900ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5059512724350",
-        "productName": "Tesco Finest Belgian Chocolate Ice Cream 480ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5059512726842",
-        "productName": "Tesco Salted Caramel Cheesecake Ice Cream 900ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5059697390678",
-        "productName": "Tesco Finest Summer Edition Coconut & Passion Fruit Ice Cream 480ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5059697752025",
-        "productName": "Tesco Finest Roasted Pistachio Ice Cream 480ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5059697777752",
-        "productName": "Tesco Cherry & Chocolate Ice Cream 900ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5060000670202",
-        "productName": "Equi's Ice Cream Chip off the Old Mint Choc 120ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5060002043950",
-        "productName": "Booja-Booja New Edition Vanilla 465ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Plant Based",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5060002043967",
-        "productName": "Booja-Booјa Special Edition Deeply Chocolate 465ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Plant Based",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5060002043974",
-        "productName": "Booja-Booja New Edition Caramel Pecan Praline 465ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Plant Based",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5060002043981",
-        "productName": "Booja-Booja New Edition Chocolate Salted Caramel 465ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Plant Based",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5060002043998",
-        "productName": "Booja-Booja Special Edition Mango & Raspberry 465ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Plant Based",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5060002044018",
-        "productName": "Booja-Booja Special Edition Chocolate Fudge Brownie 465ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Plant Based",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5060081116101",
-        "productName": "Jude's Salted Caramel with Crunch & Swirl 3 x 80ml (240ml)",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Responsibly sourced",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5060152796676",
-        "productName": "Phil Smith Be Gorgeous Cool Silver Tone Enhancing Conditioner 300ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5060152796706",
-        "productName": "Phil Smith Be Gorgeous Big It Up! Volume Boosting Shampoo 400ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5060152796713",
-        "productName": "Phil Smith Be Gorgeous Big It Up! Volume Boosting Conditioner 300ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5060152796775",
-        "productName": "Phil Smith Be Gorgeous Curly Locks Curl Perfecting Shampoo 400ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5060171184508",
-        "productName": "Granny Gothards Royal Crown Vanilla Luxury Ice Cream 500ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5060236110213",
-        "productName": "Yee Kwan Matcha Green Tea Ice Cream 500ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5060346412542",
-        "productName": "Oρρo Brothers Caramelised Biscuit Swirl 475ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "5060420338638",
-        "productName": "Charles Worthington Thicker & Fuller Densifying Conditioner 250ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5060420338737",
-        "productName": "Charles Worthington Colour Plex Toning Ultra Violet Conditioner 250ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5060420338799",
-        "productName": "Charles Worthington Colour Plex Restoring Blonde Conditioner 250ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5060420339031",
-        "productName": "Charles Worthington Shine Plex Mirror Shine Conditioner 250ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5060542500357",
-        "productName": "Cecily's Organic Pure Caramel Dairy-Free Ice Cream 460ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Plant Based",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5060674960548",
-        "productName": "Mighty Salted Caramel Brownie Plant-Based Ice Cream 460ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Plant Based",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5060778920035",
-        "productName": "Roots Double Effect Sensitive Care Shampoo 250ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "UK Made",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5410126627701",
-        "productName": "Lotus Biscoff Mini Ice Cream Sticks 6 x 60ml (360ml)",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "5411188128786",
-        "productName": "Alpro 360 Caramel Macchiato Swirl Ice Cream 450ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Plant Based",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "8001090292919",
-        "productName": "Head & Shoulders Classic Clean Anti-Dandruff 2in1 Shampoo & Conditioner, Up To 100% Flake Protection",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "8001090360175",
-        "productName": "Head & Shoulders Men Total Care Anti Dandruff 2in1 Shampoo 225ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "8001090678645",
-        "productName": "Head & Shoulders Supreme Anti Frizz Anti Dandruff Shampoo with Argan Oil and Almond Oil, 400ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "8001090718792",
-        "productName": "Aussie Miracle Moist Shampoo - Moisture-Quenching, Replenishes Dry, Damaged, Brittle Hair, 90ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "8001090834058",
-        "productName": "Pantene Gold Series Intense Hydrating Hair Oil 95ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "8001841117782",
-        "productName": "Herbal Essences Manuka Honey Deep Repair Shampoo For Very Damaged Hair",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "8001841214566",
-        "productName": "Pantene Hair Biology Silver & Glowing Purple Shampoo For Brassy Blonde, Silver, White Hair 250ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "8001841275345",
-        "productName": "Herbal Essences Coconut Milk Hydrating Hair Mask, For Very Dry Hair",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "8001841389486",
-        "productName": "Aussie Calm The Frizz Shampoo - Calms & Nourishes Frizzy Hair, Leaves It Smooth, 300ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "8001841413334",
-        "productName": "Head & Shoulders Deep Hydration Anti-Dandruff Scalp & Hair Conditioner, Dandruff 275ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "8001841500645",
-        "productName": "Herbal Essences Repair & Smooth Sulphate Free Shampoo with Aloe and Hemp For Dry Damaged Hair 380ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "8001841500799",
-        "productName": "Herbal Essences Bio:renew Sulphate Free Shampoo Aloe & Mango",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "8001841500942",
-        "productName": "Herbal Essences Strength & Moisture Sulphate Free Shampoo with Aloe & Bamboo For Dull Dry Hair 380ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "8001841559315",
-        "productName": "Aussie SOS Anti-Frizz Shot Deep Repair Hair Treatment, 25ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "8001841611938",
-        "productName": "Aussie Work That Curl Hair Serum - Vegan Hair Treatment For Curly, Wavy & Frizzy Hair, 90ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "8001841659121",
-        "productName": "Bear Fruits Avocado Repair Nourish Hair Mask + Hair Cap20ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "8001841659466",
-        "productName": "Bear Fruits Pineapple  Detox Revitalise Hair Mask + Hair Cap20ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "8001841734279",
-        "productName": "Herbal Essences Llamaste, Hair Conditioner With Argan Oil, 400ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "8001841734378",
-        "productName": "Herbal Essences Llamaste, Shampoo With Argan Oil, 400ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "8001841838052",
-        "productName": "Herbal Essences Avocado Oil & Aloe Vera Hair & Scalp Oil",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "8001841990620",
-        "productName": "Pantene  Repair & Protect Shampoo Reusable Bottle For Damaged Hair 430ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "8006540074213",
-        "productName": "Herbal Essences bio:renew Sulfate Free Shampoo With Potent Aloe+Hemp, 225Ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "8006540084403",
-        "productName": "Herbal Essences Avocado Oil Nourishing Vegan Hair Mask, For Dry Hair & Scalp",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "8006540389348",
-        "productName": "Herbal Essences Coconut Milk Hydrating Vegan Hair Conditioner, For Dry Hair",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "8006540401095",
-        "productName": "Pantene Pro-V Smooth & Sleek Hair Conditioner, 2x The Nutrients In 1 Use, 490ML",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "8006540431528",
-        "productName": "Pantene Pro-V Miracles Hydra Glow Quenching Hair Conditioner, 275ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "8006540431559",
-        "productName": "Pantene Hydra Glow Quenching Shampoo With Biotin + Baobab Essence, 400ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "8006540443910",
-        "productName": "Head & Shoulders DERMAXPRO Soothing Scalp & Hair Conditioner, 200 ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "8006540662335",
-        "productName": "Aussie Deeep Moisture Hair Mask, Vegan Hair Treatment, 450ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "8006540810538",
-        "productName": "Head & Shoulders Classic Clean Anti-Dandruff Shampoo, Up To 100% Dandruff Protection, 400ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "8006540810637",
-        "productName": "Head & Shoulders Apple Fresh Anti-Dandruff Shampoo, Up To 100% Dandruff Protection, 400ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "8006540810675",
-        "productName": "Head & Shoulders Citrus Fresh Anti-Dandruff Shampoo, Up To 100% Dandruff Protection, 400ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "8006540810743",
-        "productName": "Head & Shoulders Apple Fresh Anti-Dandruff 2in1 Shampoo & Conditioner, Up To 100% Flake Protection",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "8006540810804",
-        "productName": "Head & Shoulders Apple Fresh Anti-Dandruff 2in1 Shampoo & Conditioner, Up To 100% Flake Protection",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "8006540853795",
-        "productName": "Herbal Essences Love Me Longer Shampoo | Pomegranate Essence | Damaged Hair | Red Berry Scent |400ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "8006540855416",
-        "productName": "Herbal Essences Dazzling Shine Deep Conditioning Hair Mask | Lime Scent | Cruelty Free | 300ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "8006540977903",
-        "productName": "Aussie Bouncy Curls  Conditioner | For Wavy & Curly Hair | Jojoba, Macadamia Nut & Coconut Oils",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "8006540988992",
-        "productName": "Pantene Pro-V Smooth & Sleek 3 In 1 Shampoo, For Dull & Frizzy Hair, 400ML",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "8008970043081",
-        "productName": "Wash & Go 2 in 1 Shampoo & Conditioner Sport 200ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "8710447365403",
-        "productName": "Love Beauty And Planet Volume & Bounty Conditioner",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "8710847949487",
-        "productName": "Love Beauty and Planet Blooming Colour Shampoo Bar for Colour-Treated Hair 50 Washes",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "8711327317925",
-        "productName": "Ben & Jerry's Non Dairy Chocolate Fudge Brownie Ice Cream Mini Cup 100ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Plant Based",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Responsibly sourced",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "8711327580336",
-        "productName": "Twister Fruit Zingerrr Sour & Sweet 70ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "8712100743818",
-        "productName": "Twister Pear Flavour 6 x 80ml (480ml)",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Free from additives",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Healthier option",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Low carbon footprint",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Organic",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "8714100184950",
-        "productName": "Dove Conditioner Pro Age 350ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No animal testing",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "8717163899960",
-        "productName": "TRESemmé Moisture Rich with Vitamin E Conditioner for Dry Damaged Hair 800ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            }
-        ]
-    },
-    {
-        "sku": "8720181368059",
-        "productName": "Timotei Hydrating Mask Coconut & Aloe Vera",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": true
-            }
-        ]
-    },
-    {
-        "sku": "8720181368073",
-        "productName": "Timotei Hydrating Shampoo Coconut Milk & Aloe Vera 300ml",
-        "Badges":
-        [
-            {
-                "Badge Name": "Better packaging",
-                "Awarded Badge": true
-            },
-            {
-                "Badge Name": "Greener cosmetics",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "No chemicals of concern",
-                "Awarded Badge": false
-            },
-            {
-                "Badge Name": "Sustainable Palm Oil",
-                "Awarded Badge": false
-            }
-        ]
-    }
+	{
+		"sku": "3274664142070",
+		"productName": "Roar Plant Based Ice Cream Hemp Seed Chocolate Brownie 500ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Plant Based",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Responsibly sourced",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "3274664173807",
+		"productName": "Roar Plant Based Ice Cream Salted Caramel & Macadamia 500ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Plant Based",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "3415587174926",
+		"productName": "Häagen-Dazs Salted Caramel Cappuccino Ice Cream 460ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "3574661450728",
+		"productName": "NEUTROGENA® T/Gel Anti-Dandruff Shampoo for Dry Hair 125ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Responsibly sourced",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "3574669909884",
+		"productName": "JOHNSON'S® No More Tangles Kids Conditioner Spray 200ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "3600522713203",
+		"productName": "L'Oreal Shampoo by Elvive Extraordinary Oil for Nourishing Dry Hair 400ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "3600523583324",
+		"productName": "L'Oreal Shampoo by Elvive Dream Lengths for Long Damaged Hair 250ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "3600523882366",
+		"productName": "L'Oreal Elvive Full Resist Anti-Breakage Fragile Hair Conditioner 300ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "3600524074524",
+		"productName": "L'Oréal Paris Elvive Bond Repair Pre-Shampoo Treatment 200ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "3600524074661",
+		"productName": "L'Oreal Paris Elvive Bond Repair Shampoo 200ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "3600524074807",
+		"productName": "L'Oreal Paris Elvive Bond Repair Conditioner 150ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "3600524082369",
+		"productName": "L'Oreal Paris Elvive Full Resist Breakproof Detangling Conditioner with Aminexil for Hair Fall 250ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "4063528014016",
+		"productName": "Foamie Dry Shampoo Berry Brunette 40g",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "4063528014528",
+		"productName": "Vita Coco Coconut Shampoo Nourish Coconut Water 400ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "4063528014535",
+		"productName": "Vita Coco Coconut Conditioner Nourish 400ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "4063528014559",
+		"productName": "Vita Coco Coconut Shampoo Scalp Coconut & Guava 400ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "4063528014566",
+		"productName": "Vita Coco Coconut Conditioner Scalp Coconut & Guava 400ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5000128603935",
+		"productName": "Co-op Irresistible Indulgent & Creamy White Chocolate & Salted Caramel Ice Creams 3 x 100ml (300ml)",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5000128710992",
+		"productName": "Co-op Vanilla Flavour Ice Cream 900ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5000128711159",
+		"productName": "Co Op Honeycomb Ice Cream 900ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5000169023952",
+		"productName": "Essential Waitrose & Partners Vanilla Soft Scoop Ice Cream 1 Litre",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5000169595336",
+		"productName": "Waitrose & Partners Fairtrade Duchy Organic Ice Cream Vanilla 480ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Responsibly sourced",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5000169598719",
+		"productName": "Waitrose & Partners Banoffee Pie Dairy Ice Cream 500ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5010238020515",
+		"productName": "Kelly's Cornish Clotted Cream 950ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5010251712268",
+		"productName": "Morrisons Block of Vanilla Flavour Ice Cream 1 Litre",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5010251724971",
+		"productName": "Morrisons The Best Caffe Latte Ice Cream 500ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5010251931102",
+		"productName": "Morrisons Candyfloss & Apple 900ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5010386105553",
+		"productName": "Dale Farm Vanilla Flavour Ice Cream 568ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5010386105607",
+		"productName": "Dale Farm Honeycomb 900ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5010386105614",
+		"productName": "Dale Farm Creamy Vanilla 900ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5010525022246",
+		"productName": "Morrisons V Taste Chocolate Non-Dairy Ice Cream 500ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Plant Based",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5010525223612",
+		"productName": "Morrisons Plant Revolution! Salted Caramel Brownie-Licious 500ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Plant Based",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5010525223629",
+		"productName": "Morrisons Plant Revolution! Go-Go Chocolate Cookie Dough 500ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Plant Based",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5010724527511",
+		"productName": "Batiste Dry Shampoo Tropical Exotic Coconut 200ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5010724532966",
+		"productName": "Batiste Dry Shampoo & Volume with Plumping Collagen 200ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5010724533635",
+		"productName": "Batiste Dry Shampoo Fresh & Feminine Wildflower 200ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5010724537497",
+		"productName": "Batiste Dark Hair Colour Dry Shampoo 350ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5011309090611",
+		"productName": "Nizoral Anti-Dandruff Daily Prevent Shampoo 200ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5011321595200",
+		"productName": "Herbal Essences IGNITE MY COLOUR Hydrating Shampoo | Rose  Fragrance |For Coloured Hair | 400ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5011321879980",
+		"productName": "Herbal Essences Beautiful Ends Shampoo For Damaged Hair 400ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5012008551205",
+		"productName": "PRO:VOKE Touch Of Silver Purple Brightening Shampoo 50ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5012008671507",
+		"productName": "Pro:Voke Touch of Silver Purple Toning Dry Shampoo 200ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5012008713108",
+		"productName": "Pro:Voke Highlight Boost Conditioner 200ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5012008742009",
+		"productName": "Provoke Blonde Rehab Bond Repair System No1 Hair Perfector Treatment 150ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5013455031333",
+		"productName": "Weleda Lemon Balm & Orange Blossom Conditioner 250ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5013455031340",
+		"productName": "Weleda Calendula & Chamomile Shampoo 250ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5014697056924",
+		"productName": "Vosene Anti Dandruff Shampoo 200ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5014697056931",
+		"productName": "Vosene Anti Dandruff Shampoo 300ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5021952111250",
+		"productName": "Lakes Luxury Ice Cream Thunder & Lightning 1 Litre",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5021952111533",
+		"productName": "Luxury Lakes Sticky Toffee Pudding Ice Cream 1 Litre",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5027324003376",
+		"productName": "Little Moons Mochi Sorbet Refreshos Pineapple & Mandarin 6 x 32g (192g)",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Plant Based",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5027324003383",
+		"productName": "Little Moons Mochi Sorbet Refreshos Very Berry 6 x 32g (192g)",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Plant Based",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5031622077618",
+		"productName": "Porrelli Italian Gelato Toffee Ripple 10 Litres",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5035112312517",
+		"productName": "Morelli Double Cream Vanilla 3 x 125ml (375ml)",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5035112312524",
+		"productName": "Morelli Honeycomb 3 x 125ml (375ml)",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5035112950016",
+		"productName": "Morelli Double Cream Vanilla Ice Cream 950ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5036589250838",
+		"productName": "Yeo Valley Organic Vanilla Ice Cream 500ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5037156263640",
+		"productName": "John Frieda Hydrate & Recharge Conditioner 250ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5037156271539",
+		"productName": "John Frieda Frizz Ease Brazilian Sleek Frizz Immunity Conditioner 250ml for Frizzy, Medium to Coarse",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5052449483451",
+		"productName": "Asda Vanilla Ice Cream 1 Litre",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5052909539179",
+		"productName": "Tesco Vanilla Flavour Ice Cream 1 Litre",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5053526969974",
+		"productName": "Tesco Neapolitan Ice Cream 1 Litre",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5054070692172",
+		"productName": "Asda Really Creamy Vanilla Light 900ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5054805039722",
+		"productName": "Vosene Anti Dandruff Shampoo 500ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5057172029709",
+		"productName": "Asda Galactic Ice Cream 900ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5059512724350",
+		"productName": "Tesco Finest Belgian Chocolate Ice Cream 480ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5059512726842",
+		"productName": "Tesco Salted Caramel Cheesecake Ice Cream 900ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5059697390678",
+		"productName": "Tesco Finest Summer Edition Coconut & Passion Fruit Ice Cream 480ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5059697752025",
+		"productName": "Tesco Finest Roasted Pistachio Ice Cream 480ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5059697777752",
+		"productName": "Tesco Cherry & Chocolate Ice Cream 900ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5060000670202",
+		"productName": "Equi's Ice Cream Chip off the Old Mint Choc 120ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5060002043950",
+		"productName": "Booja-Booja New Edition Vanilla 465ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Plant Based",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5060002043967",
+		"productName": "Booja-Booјa Special Edition Deeply Chocolate 465ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Plant Based",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5060002043974",
+		"productName": "Booja-Booja New Edition Caramel Pecan Praline 465ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Plant Based",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5060002043981",
+		"productName": "Booja-Booja New Edition Chocolate Salted Caramel 465ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Plant Based",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5060002043998",
+		"productName": "Booja-Booja Special Edition Mango & Raspberry 465ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Plant Based",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5060002044018",
+		"productName": "Booja-Booja Special Edition Chocolate Fudge Brownie 465ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Plant Based",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5060081116101",
+		"productName": "Jude's Salted Caramel with Crunch & Swirl 3 x 80ml (240ml)",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Responsibly sourced",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5060152796676",
+		"productName": "Phil Smith Be Gorgeous Cool Silver Tone Enhancing Conditioner 300ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5060152796706",
+		"productName": "Phil Smith Be Gorgeous Big It Up! Volume Boosting Shampoo 400ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5060152796713",
+		"productName": "Phil Smith Be Gorgeous Big It Up! Volume Boosting Conditioner 300ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5060152796775",
+		"productName": "Phil Smith Be Gorgeous Curly Locks Curl Perfecting Shampoo 400ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5060171184508",
+		"productName": "Granny Gothards Royal Crown Vanilla Luxury Ice Cream 500ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5060236110213",
+		"productName": "Yee Kwan Matcha Green Tea Ice Cream 500ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5060346412542",
+		"productName": "Oρρo Brothers Caramelised Biscuit Swirl 475ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "5060420338638",
+		"productName": "Charles Worthington Thicker & Fuller Densifying Conditioner 250ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5060420338737",
+		"productName": "Charles Worthington Colour Plex Toning Ultra Violet Conditioner 250ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5060420338799",
+		"productName": "Charles Worthington Colour Plex Restoring Blonde Conditioner 250ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5060420339031",
+		"productName": "Charles Worthington Shine Plex Mirror Shine Conditioner 250ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5060542500357",
+		"productName": "Cecily's Organic Pure Caramel Dairy-Free Ice Cream 460ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Plant Based",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5060674960548",
+		"productName": "Mighty Salted Caramel Brownie Plant-Based Ice Cream 460ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Plant Based",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5060778920035",
+		"productName": "Roots Double Effect Sensitive Care Shampoo 250ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "UK Made",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5410126627701",
+		"productName": "Lotus Biscoff Mini Ice Cream Sticks 6 x 60ml (360ml)",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "5411188128786",
+		"productName": "Alpro 360 Caramel Macchiato Swirl Ice Cream 450ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Plant Based",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "8001090292919",
+		"productName": "Head & Shoulders Classic Clean Anti-Dandruff 2in1 Shampoo & Conditioner, Up To 100% Flake Protection",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "8001090360175",
+		"productName": "Head & Shoulders Men Total Care Anti Dandruff 2in1 Shampoo 225ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "8001090678645",
+		"productName": "Head & Shoulders Supreme Anti Frizz Anti Dandruff Shampoo with Argan Oil and Almond Oil, 400ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "8001090718792",
+		"productName": "Aussie Miracle Moist Shampoo - Moisture-Quenching, Replenishes Dry, Damaged, Brittle Hair, 90ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "8001090834058",
+		"productName": "Pantene Gold Series Intense Hydrating Hair Oil 95ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "8001841117782",
+		"productName": "Herbal Essences Manuka Honey Deep Repair Shampoo For Very Damaged Hair",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "8001841214566",
+		"productName": "Pantene Hair Biology Silver & Glowing Purple Shampoo For Brassy Blonde, Silver, White Hair 250ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "8001841275345",
+		"productName": "Herbal Essences Coconut Milk Hydrating Hair Mask, For Very Dry Hair",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "8001841389486",
+		"productName": "Aussie Calm The Frizz Shampoo - Calms & Nourishes Frizzy Hair, Leaves It Smooth, 300ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "8001841413334",
+		"productName": "Head & Shoulders Deep Hydration Anti-Dandruff Scalp & Hair Conditioner, Dandruff 275ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "8001841500645",
+		"productName": "Herbal Essences Repair & Smooth Sulphate Free Shampoo with Aloe and Hemp For Dry Damaged Hair 380ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "8001841500799",
+		"productName": "Herbal Essences Bio:renew Sulphate Free Shampoo Aloe & Mango",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "8001841500942",
+		"productName": "Herbal Essences Strength & Moisture Sulphate Free Shampoo with Aloe & Bamboo For Dull Dry Hair 380ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "8001841559315",
+		"productName": "Aussie SOS Anti-Frizz Shot Deep Repair Hair Treatment, 25ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "8001841611938",
+		"productName": "Aussie Work That Curl Hair Serum - Vegan Hair Treatment For Curly, Wavy & Frizzy Hair, 90ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "8001841659121",
+		"productName": "Bear Fruits Avocado Repair Nourish Hair Mask + Hair Cap20ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "8001841659466",
+		"productName": "Bear Fruits Pineapple  Detox Revitalise Hair Mask + Hair Cap20ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "8001841734279",
+		"productName": "Herbal Essences Llamaste, Hair Conditioner With Argan Oil, 400ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "8001841734378",
+		"productName": "Herbal Essences Llamaste, Shampoo With Argan Oil, 400ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "8001841838052",
+		"productName": "Herbal Essences Avocado Oil & Aloe Vera Hair & Scalp Oil",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "8001841990620",
+		"productName": "Pantene  Repair & Protect Shampoo Reusable Bottle For Damaged Hair 430ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "8006540074213",
+		"productName": "Herbal Essences bio:renew Sulfate Free Shampoo With Potent Aloe+Hemp, 225Ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "8006540084403",
+		"productName": "Herbal Essences Avocado Oil Nourishing Vegan Hair Mask, For Dry Hair & Scalp",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "8006540389348",
+		"productName": "Herbal Essences Coconut Milk Hydrating Vegan Hair Conditioner, For Dry Hair",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "8006540401095",
+		"productName": "Pantene Pro-V Smooth & Sleek Hair Conditioner, 2x The Nutrients In 1 Use, 490ML",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "8006540431528",
+		"productName": "Pantene Pro-V Miracles Hydra Glow Quenching Hair Conditioner, 275ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "8006540431559",
+		"productName": "Pantene Hydra Glow Quenching Shampoo With Biotin + Baobab Essence, 400ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "8006540443910",
+		"productName": "Head & Shoulders DERMAXPRO Soothing Scalp & Hair Conditioner, 200 ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "8006540662335",
+		"productName": "Aussie Deeep Moisture Hair Mask, Vegan Hair Treatment, 450ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "8006540810538",
+		"productName": "Head & Shoulders Classic Clean Anti-Dandruff Shampoo, Up To 100% Dandruff Protection, 400ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "8006540810637",
+		"productName": "Head & Shoulders Apple Fresh Anti-Dandruff Shampoo, Up To 100% Dandruff Protection, 400ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "8006540810675",
+		"productName": "Head & Shoulders Citrus Fresh Anti-Dandruff Shampoo, Up To 100% Dandruff Protection, 400ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "8006540810743",
+		"productName": "Head & Shoulders Apple Fresh Anti-Dandruff 2in1 Shampoo & Conditioner, Up To 100% Flake Protection",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "8006540810804",
+		"productName": "Head & Shoulders Apple Fresh Anti-Dandruff 2in1 Shampoo & Conditioner, Up To 100% Flake Protection",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "8006540853795",
+		"productName": "Herbal Essences Love Me Longer Shampoo | Pomegranate Essence | Damaged Hair | Red Berry Scent |400ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "8006540855416",
+		"productName": "Herbal Essences Dazzling Shine Deep Conditioning Hair Mask | Lime Scent | Cruelty Free | 300ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "8006540977903",
+		"productName": "Aussie Bouncy Curls  Conditioner | For Wavy & Curly Hair | Jojoba, Macadamia Nut & Coconut Oils",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "8006540988992",
+		"productName": "Pantene Pro-V Smooth & Sleek 3 In 1 Shampoo, For Dull & Frizzy Hair, 400ML",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "8008970043081",
+		"productName": "Wash & Go 2 in 1 Shampoo & Conditioner Sport 200ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "8710447365403",
+		"productName": "Love Beauty And Planet Volume & Bounty Conditioner",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "8710847949487",
+		"productName": "Love Beauty and Planet Blooming Colour Shampoo Bar for Colour-Treated Hair 50 Washes",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "8711327317925",
+		"productName": "Ben & Jerry's Non Dairy Chocolate Fudge Brownie Ice Cream Mini Cup 100ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Plant Based",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Responsibly sourced",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "8711327580336",
+		"productName": "Twister Fruit Zingerrr Sour & Sweet 70ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "8712100743818",
+		"productName": "Twister Pear Flavour 6 x 80ml (480ml)",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Free from additives",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Healthier option",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Low carbon footprint",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Organic",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "8714100184950",
+		"productName": "Dove Conditioner Pro Age 350ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No animal testing",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "8717163899960",
+		"productName": "TRESemmé Moisture Rich with Vitamin E Conditioner for Dry Damaged Hair 800ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			}
+		]
+	},
+	{
+		"sku": "8720181368059",
+		"productName": "Timotei Hydrating Mask Coconut & Aloe Vera",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": true
+			}
+		]
+	},
+	{
+		"sku": "8720181368073",
+		"productName": "Timotei Hydrating Shampoo Coconut Milk & Aloe Vera 300ml",
+		"badges": [
+			{
+				"badgeName": "Better packaging",
+				"awardedBadge": true
+			},
+			{
+				"badgeName": "Greener cosmetics",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "No chemicals of concern",
+				"awardedBadge": false
+			},
+			{
+				"badgeName": "Sustainable Palm Oil",
+				"awardedBadge": false
+			}
+		]
+	}
 ]
