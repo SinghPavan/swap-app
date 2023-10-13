@@ -1,0 +1,38 @@
+name: SWAP APP GitHub Actions Pipeline 
+# run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+on: 
+  push:
+    branches:
+      - main
+
+jobs:
+  job_deploy:
+    name: "SWAP APP Deployment"
+    runs-on: 'ubuntu-latest'
+    steps:
+    - id: 'code_checkout'
+      uses: actions/checkout@v3
+      
+    - name: 'authorization' 
+      uses: 'google-github-actions/auth@v1'
+      with:
+        credentials_json: '${{ secrets.GCP_CREDENTIALS }}'
+
+    - name: 'set up Cloud SDK'
+      uses: 'google-github-actions/setup-gcloud@v1'
+    
+    - name: Use Node.js 18
+      uses: actions/setup-node@v3
+      with:
+        node-version: 18
+        cache: npm
+        cache-dependency-path: package-lock.json
+
+    - name: 'SWAP APP Build'
+      run: |
+           npm install 
+           npm run build
+    
+    - name: 'SWAP APP Deploy'
+      run: |
+           gsutil -m rsync -r -d ./out gs://${{ vars.GCS_BUCKET_NAME }}
