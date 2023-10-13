@@ -17,6 +17,7 @@ const config: Config = {
         white: "#fff",
         primary: "#005EEE",
         lightYellow: "#FEEC9A",
+        lightBlue: "#91DBF2",
       },
     },
   },
