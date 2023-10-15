@@ -35,3 +35,8 @@ yarn-error.log*
 next-env.d.ts
 
 .env
+hello.html
+ngrok.js
+texst.html
+test.svg
+barcode.png
