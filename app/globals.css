@@ -18,6 +18,37 @@
   }
 } */
 
+@keyframes slideIn {
+    0% {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+@keyframes slideOut {
+    0% {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+/* Apply the animation to the slide-in-element class */
+.slide-in-element {
+    animation: slideIn 1s ease-in-out;
+}
+
+.slide-out-element {
+    animation: slideIn 1s ease-in-out;
+}
+
 .home {
 	background: url("../public/assets/landing-background.svg") no-repeat;
 	height: 100svh;

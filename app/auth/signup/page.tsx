@@ -5,7 +5,7 @@ import Link from "next/link";
 import React from "react";
 const Signup = () => {
   return (
-    <div className="signup px-4 ">
+    <div className="signup px-4 slide-in-element">
       <div className="heading mb-8 pt-12">
         <h1 className="text-3xl bold text-lightYellow mb-2">
           Create an account
