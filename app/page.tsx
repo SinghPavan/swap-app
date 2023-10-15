@@ -31,6 +31,12 @@ export default function Home() {
         <Link className="text-center mt-4 text-primary" href="/auth/signup">
           Login
         </Link>
+        <Link href="/profile">
+          profile
+        </Link>
+        <Link href="/scan">
+          scan
+        </Link>
       </div>
     </main>
   );

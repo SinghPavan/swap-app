@@ -22,6 +22,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "components/GoalChart.jsx", "components/RadarChart.jsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "components/GoalChart.jsx", "components/RadarChart.jsx","components/camera.jsx"],
   "exclude": ["node_modules"]
 }

@@ -30,6 +30,46 @@
 	/* @apply flex flex-col justify-center items-center ; */
 }
 
+.profile{
+  background: url('../public/assets/profile-background.svg') no-repeat;
+  height: 100svh;
+}
+
+.camera{
+  background: url('../public/assets/camera-background.png') no-repeat;
+  height: 100svh;
+  background-position: center;
+  box-shadow: 0px 17.08475px 19.52542px 0px rgba(0, 0, 0, 0.10);
+  background-size: 100svh;  
+  /* flex-shrink: 0; */
+}
+.cameraBlur{
+  background: url('../public/assets/camera-background-blur.png'), lightgray 50% / cover no-repeat;
+  height: 100svh;
+  /* background-position: center; */
+  /* box-shadow: 0px 17.08475px 19.52542px 0px rgba(0, 0, 0, 0.10); */
+  background-size: 100svh;  
+  /* flex-shrink: 0; */
+}
+.subtract{
+  background: gray no-repeat;
+  height: 100svh;
+  /* background-position: center; */
+  /* box-shadow: 0px 17.08475px 19.52542px 0px rgba(0, 0, 0, 0.10); */
+  /* background-size: 100svh;   */
+  /* flex-shrink: 0; */
+}
+
+.subtractSvg {
+  background: url('../public/assets/camera-background-1.svg') no-repeat;
+  height: 100svh;
+}
+
+/* .reset-blend-mode {
+  mix-blend-mode: normal !important;
+} */
+
+
 body {
 	color: rgb(var(--foreground-rgb));
 	background: rgb(var(--background-rgb));

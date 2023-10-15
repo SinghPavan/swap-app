@@ -22,6 +22,7 @@ const config: Config = {
         lightPurple: "#91A6F2",
         lightGreen: "#A3E1D2",
         lightOrange: "#FEC38C",
+        lightGray: "#C0C0C0",
       },
     },
   },
