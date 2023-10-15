@@ -7,7 +7,11 @@ module.exports = nextConfig;
 
 module.exports = {
 	images: {
-		loader: "akamai",
-		path: "",
+		remotePatterns: [
+			{
+				protocol: "https",
+				hostname: "assets.unileversolutions.com",
+			},
+		],
 	},
 };
