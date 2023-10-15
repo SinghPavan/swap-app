@@ -71,6 +71,72 @@ body {
 .top-section .heart-icon {
 	width: 27px;
 	height: 24px;
-
 	background: url("../public/assets/heart-icon.svg") no-repeat;
 }
+
+.range-input::-webkit-slider-thumb{
+	position: relative;
+	z-index: 9999;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+}
+
+input[type="range"] {
+	-webkit-appearance: none;
+	appearance: none;
+	background: white;
+  }
+  input[type="range"]::-webkit-slider-thumb {
+	-webkit-appearance: none;
+	appearance: none;
+	width: 20px;
+	height: 20px;
+	background: #3498db; /* Customize the thumb color */
+	cursor: pointer;
+  }
+
+  .range-input::after{
+	content: '';
+	height: 8px;
+	position: absolute;
+	display: block;
+  }
+  .range-input.health::after{
+	@apply bg-lightPink;
+  }
+  .range-input.wellbeing::after{
+	@apply bg-lightPurple;
+  }
+  .range-input.smarter::after{
+	@apply bg-lightGreen;
+
+  }
+  .range-input.sustainable::after{
+	@apply bg-lightYellow;
+	
+  }
+  .range-input.community::after{
+	@apply bg-lightOrange;
+  }
+  .range-input-1::after{
+	width: 50%;
+	right: 50%;
+  }
+  .range-input-2::after{
+	width: 25%;
+	right: 50%;
+  }
+  .range-input-3::after{
+
+  }
+  .range-input-4::after{
+	width: 25%;
+	left: 50%;
+  }
+  .range-input-5::after{
+	width: 50%;
+	left: 50%;
+  }
+  
+
