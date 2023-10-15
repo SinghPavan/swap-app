@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ngrok/ngrok": "^0.8.0",
+    "@zxing/library": "^0.20.0",
     "next": "13.5.4",
     "react": "^18",
     "react-dom": "^18",
@@ -21,6 +23,7 @@
     "autoprefixer": "^10",
     "eslint": "^8",
     "eslint-config-next": "13.5.4",
+    "html5-qrcode": "^2.3.8",
     "postcss": "^8",
     "tailwindcss": "^3",
     "typescript": "^5"
