@@ -1,14 +1,18 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: "export",
-  reactStrictMode: false,
+	output: "export",
+	reactStrictMode: false,
 };
 
 module.exports = nextConfig;
 
 module.exports = {
-  images: {
-    loader: "akamai",
-    path: "",
-  },
+	images: {
+		remotePatterns: [
+			{
+				protocol: "https",
+				hostname: "assets.unileversolutions.com",
+			},
+		],
+	},
 };
