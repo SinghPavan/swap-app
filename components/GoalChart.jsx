@@ -7,6 +7,7 @@ import {
   PolarGrid,
   PolarAngleAxis,
   ResponsiveContainer,
+  PolarRadiusAxis,
 } from "recharts";
 
 function GoalsChart({ data }) {
@@ -39,6 +40,7 @@ function GoalsChart({ data }) {
       <ResponsiveContainer width="100%" height={300} minWidth={300}>
         <RadarChart data={data}>
           <PolarGrid className="opacity-5" />
+          <PolarRadiusAxis angle={30} domain={[1, 5]} />
           <PolarAngleAxis
             dataKey="icon"
             tick={<CustomAxisTick />}
