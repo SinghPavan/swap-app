@@ -35,7 +35,7 @@ const profile = () => {
   }, []);
 
   return (
-    <div className="profile flex flex-col items-center px-4 slide-in-element">
+    <div className="profile flex flex-col items-center px-4 slide-in-element overflow-y-scroll overflow-x-hidden">
       <p className=" text-xl text-center mt-5 mb-2.5">Profile</p>
       <Image
         src={"/assets/profile.svg"}
@@ -61,15 +61,17 @@ const profile = () => {
           </p>
         </Link>
       </div>
-      <div className="chart">
+      <div className="chart mb-25">
         <GoalsChart data={value} />
       </div>
-      <div className="tips">
-        <h3>Tips and Tricks</h3>
-        <div className="tips-card" >
+      <div className="tips ">
+        <h3 className="ml-32 text-2xl text-lightYellow mb-8">
+          Tips and Tricks
+        </h3>
+        <div className="tips-card mb-32">
           <Swiper
             slidesPerView={"auto"}
-            spaceBetween={30}
+            spaceBetween={0}
             pagination={{
               clickable: true,
             }}
@@ -78,20 +80,16 @@ const profile = () => {
           >
             {tipsData.map((item, index) => {
               return (
-                <SwiperSlide key={index}>
-                  <Tips tips={item}/>
+                <SwiperSlide className="mr-0" key={index}>
+                  <Tips tips={item} />
                 </SwiperSlide>
               );
             })}
-
-            {/* <SwiperSlide>Slide 1</SwiperSlide>
-            <SwiperSlide>Slide 2</SwiperSlide>
-            <SwiperSlide>Slide 3</SwiperSlide>
-            <SwiperSlide>Slide 4</SwiperSlide> */}
           </Swiper>
         </div>
       </div>
       <AppNavigation />
+      <footer className="h-10 bg-primary absolute bottom-0 w-full z-10"></footer>
     </div>
   );
 };

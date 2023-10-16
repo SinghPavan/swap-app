@@ -15,16 +15,55 @@ const GoalSetting = () => {
   console.log("goals", goalPoints);
   const handleChange = (e: any) => {
     const { name, value } = e.target;
+    // if (name === "health") {
+    //   const newValue = Number(value);
+    //   const newAffordabilityValue =
+    //     goalPoints.smarter - (newValue - goalPoints.health);
+
+    //   setGoalPoints({
+    //     ...goalPoints,
+    //     [name]: newValue,
+    //     smarter: newAffordabilityValue,
+    //     wellbeing: newValue,
+    //     sustainable: newValue,
+    //     community: newValue,
+    //   });
+    // } else if (name === "wellbeing") {
+    //   const newValue = Number(value);
+    //   const newAffordabilityValue =
+    //     goalPoints.smarter - (newValue - goalPoints.health);
+
+    //   setGoalPoints({
+    //     ...goalPoints,
+    //     [name]: newValue,
+    //     smarter: newAffordabilityValue,
+    //     health: newValue,
+    //     sustainable: newValue,
+    //     community: newValue,
+    //   });
+    // } else if (name === "smarter") {
+    //   const newValue = Number(value);
+    //   const newAffordabilityValue =
+    //     goalPoints.health - (newValue - goalPoints.smarter);
+
+    //   setGoalPoints({
+    //     ...goalPoints,
+    //     [name]: newValue,
+    //     health: newAffordabilityValue,
+    //     wellbeing: newAffordabilityValue,
+    //     community: newAffordabilityValue,
+    //   });
+    // } else {
     setGoalPoints({ ...goalPoints, [name]: Number(value) });
-    console.log("first", goalPoints);
+    // }
   };
 
   return (
     <div className="goals-changer flex flex-col w-full">
-      <div className="health">
+      <div className="health mb-4">
         <label
           htmlFor="steps-range"
-          className="inline-flex items-center gap-2 mb-2 text-sm  text-white font-bold dark:text-white "
+          className="inline-flex items-center gap-2 mb-1 text-sm  text-white font-bold dark:text-white "
         >
           <Image
             src="/assets/health.svg"
@@ -52,10 +91,10 @@ const GoalSetting = () => {
           </div>
         </div>
       </div>
-      <div className="wellbeing">
+      <div className="wellbeing mb-4">
         <label
           htmlFor="steps-range"
-          className="inline-flex items-center gap-2 mb-2 text-sm  text-white font-bold dark:text-white "
+          className="inline-flex items-center gap-2 mb-1 text-sm  text-white font-bold dark:text-white "
         >
           <Image
             src="/assets/wellbeing.svg"
@@ -83,10 +122,10 @@ const GoalSetting = () => {
           </div>
         </div>
       </div>
-      <div className="smarter">
+      <div className="smarter mb-4">
         <label
           htmlFor="steps-range"
-          className="inline-flex items-center gap-2 mb-2 text-sm  text-white font-bold dark:text-white "
+          className="inline-flex items-center gap-2 mb-1 text-sm  text-white font-bold dark:text-white "
         >
           <Image
             src="/assets/smarter.svg"
@@ -114,10 +153,10 @@ const GoalSetting = () => {
           </div>
         </div>
       </div>
-      <div className="sustainable">
+      <div className="sustainable mb-4">
         <label
           htmlFor="steps-range"
-          className="inline-flex items-center gap-2 mb-2 text-sm  text-white font-bold dark:text-white "
+          className="inline-flex items-center gap-2 mb-1 text-sm  text-white font-bold dark:text-white "
         >
           <Image
             src="/assets/sustainable.svg"
@@ -145,13 +184,13 @@ const GoalSetting = () => {
           </div>
         </div>
       </div>
-      <div className="community">
+      <div className="community mb-4">
         <label
           htmlFor="steps-range"
-          className="inline-flex items-center gap-2 mb-2 text-sm  text-white font-bold dark:text-white "
+          className="inline-flex items-center gap-2 mb-1 text-sm  text-white font-bold dark:text-white "
         >
           <Image
-            src="/assets/sustainable.svg"
+            src="/assets/community.svg"
             alt="Strengthen community"
             width={27}
             height={27}
