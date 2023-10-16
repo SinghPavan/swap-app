@@ -10,7 +10,13 @@ const productCard = (props) => {
 						<h1 className="text-blue-500">2 GOALS MATCHED</h1>
 					</div>
 					<span className="light-icon flex"></span>
-					<span className="heart-icon flex"></span>
+					{props.isUnileverProduct && (
+						<span
+							className="heart-icon flex"
+							onClick={(event) => {
+								(event.target as HTMLInputElement).classList.toggle("active");
+							}}></span>
+					)}
 				</div>
 			)}
 			<div className="middle-section justify-around items-center flex p-4">

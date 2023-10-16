@@ -1,9 +1,10 @@
 import Image from "next/image";
 import Link from "next/link";
+import React from "react";
 
 export default function Home() {
   return (
-    <main className="home">
+    <main className="home ">
       <div className="heading">
         <h1 className="flex flex-col items-center text-center text-lightYellow text-xl">
           Welcome to
@@ -31,12 +32,8 @@ export default function Home() {
         <Link className="text-center mt-4 text-primary" href="/auth/signup">
           Login
         </Link>
-        <Link href="/profile">
-          profile
-        </Link>
-        <Link href="/scan">
-          scan
-        </Link>
+        <Link href="/profile">profile</Link>
+        <Link href="/scan">scan</Link>
       </div>
     </main>
   );
