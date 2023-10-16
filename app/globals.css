@@ -18,6 +18,36 @@
   }
 } */
 
+@keyframes slideIn {
+    0% {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+@keyframes slideOut {
+    0% {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+/* Apply the animation to the slide-in-element class */
+.slide-in-element {
+    animation: slideIn 1s ease-in-out;
+}
+
+.slide-out-element {
+    animation: slideIn 1s ease-in-out;
+}
 a,
 h1,
 h2,
@@ -45,7 +75,7 @@ div {
 }
 
 .profile {
-	background: url("../public/assets/profile-background.svg") no-repeat;
+	/* background: url("../public/assets/profile-background.svg") no-repeat; */
 	height: 100svh;
 }
 
@@ -256,15 +286,12 @@ body {
 .offset-card-wrapper a {
 	border-radius: 68px;
 	border: 1px solid #005eee;
-
 	background: #005eee;
 	width: 191px;
 	height: 45px;
-
 	display: flex;
 	justify-content: center;
 	align-items: center;
-
 	box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.15) inset;
 }
 
@@ -274,6 +301,11 @@ body {
 	align-items: center;
 	flex-direction: column;
 	gap: 1rem;
+	background-color: white;
+}
+
+.slick-dots{
+	display: none;
 }
 
 .offset-description {
@@ -400,8 +432,8 @@ input[type="range"]::-webkit-slider-thumb {
 	width: 25%;
 	right: 50%;
 }
-.range-input-3::after {
-}
+/* .range-input-3::after {
+} */
 .range-input-4::after {
 	width: 25%;
 	left: 50%;
@@ -426,6 +458,12 @@ input[type="range"]::-webkit-slider-thumb {
 	align-items: center;
 }
 
+.foreignObject-1,.foreignObject-2{
+	transform: translateX(30px);
+}
+.foreignObject-0{
+	transform: translate(18px, -10px)
+}
 .app-navigation {
 	width: 360px;
 	height: 90px;
@@ -442,8 +480,8 @@ input[type="range"]::-webkit-slider-thumb {
 	justify-content: center;
 	align-items: center;
 	gap: 1rem;
-	position: sticky;
-	bottom: 80px;
+	position: fixed;
+	bottom: 5%;
 }
 
 .home-icon {
