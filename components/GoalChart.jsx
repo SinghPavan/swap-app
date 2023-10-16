@@ -1,65 +1,57 @@
-import React from "react";
+"use client";
+import Image from "next/image";
+import React, { useEffect, useState } from "react";
 import {
   Radar,
   RadarChart,
   PolarGrid,
   PolarAngleAxis,
-  PolarRadiusAxis,
   ResponsiveContainer,
 } from "recharts";
 
 function GoalsChart({ data }) {
-  //   const data = [
-  //     {
-  //       subject: "Health",
-  //       A: 75,
-  //       color: "green", // Set a custom color for the Health axis
-  //     },
-  //     {
-  //       subject: "Smarter",
-  //       A: 80,
-  //       color: "#33FF57", // Set a custom color for the Smarter axis
-  //     },
-  //     {
-  //       subject: "Wellbeing",
-  //       A: 60,
-  //       color: "#5733FF", // Set a custom color for the Wellbeing axis
-  //     },
-  //     {
-  //       subject: "Community",
-  //       A: 90,
-  //       color: "#FF3375", // Set a custom color for the Community axis
-  //     },
-  //     {
-  //       subject: "Sustainable",
-  //       A: 70,
-  //       color: "#33AAFF", // Set a custom color for the Sustainable axis
-  //     },
-  //   ];
+  // Preprocess the data to have the expected dataKey
+  // const processedData = data.map((entry) => ({
+  //   icon: entry.icon,
+  //   ...entry,
+  // }));
+
+  function CustomAxisTick({ x, y, payload }) {
+    console.log("payload");
+    return (
+      <g transform={`translate(${x - 20},${y})`}>
+        <foreignObject
+          className={`foreignObject-${payload.index}`}
+          x={-10}
+          y={-8}
+          width={30}
+          height={30}
+        >
+          <div dangerouslySetInnerHTML={{ __html: payload.value }} />
+        </foreignObject>
+        {payload.value}
+      </g>
+    );
+  }
 
   return (
     <div className="radar-chart-container">
       <ResponsiveContainer width="100%" height={300} minWidth={300}>
         <RadarChart data={data}>
-          <PolarGrid />
-          <PolarAngleAxis dataKey="icon " />
-          {/* <PolarRadiusAxis angle={90} domain={[1, 5]} /> */}
-          {/* <Radar
-            name="Data Point"
-            dataKey="value"
-            stroke="#00C49F"
-            fill="#00C49F"
-            fillOpacity={0.6}
-          /> */}
-
-          {data.map((entry, index) => (
+          <PolarGrid className="opacity-5" />
+          <PolarAngleAxis
+            dataKey="icon"
+            tick={<CustomAxisTick />}
+            className="icon"
+          />
+          {data?.map((entry, index) => (
             <Radar
               key={index}
               name={entry.subject}
               dataKey="A"
               stroke={entry.color}
               fill={entry.color}
-              fillOpacity={1}
+              fillOpacity={0.6}
             />
           ))}
         </RadarChart>
