@@ -45,7 +45,7 @@ const GoalSetting = () => {
             className={`range-input health range-input-${goalPoints.health} w-full bg-white h-2 rounded-full `}
           />
           <div
-            className="h-8 w-8 bg-lightPink rounded-full absolute -top-1 text-white flex justify-center items-center"
+            className="h-8 w-8 bg-lightPink rounded-full absolute -top-1 text-black flex justify-center items-center"
             style={{ left: `${23 * (goalPoints.health - 1)}%` }}
           >
             {goalPoints.health}
@@ -76,7 +76,7 @@ const GoalSetting = () => {
             className={`range-input wellbeing range-input-${goalPoints.wellbeing} w-full bg-white h-2 rounded-full `}
           />
           <div
-            className="h-8 w-8 bg-lightPurple rounded-full absolute -top-1 text-white flex justify-center items-center"
+            className="h-8 w-8 bg-lightPurple rounded-full absolute -top-1 text-black flex justify-center items-center"
             style={{ left: `${23 * (goalPoints.wellbeing - 1)}%` }}
           >
             {goalPoints.wellbeing}
@@ -107,7 +107,7 @@ const GoalSetting = () => {
             className={`range-input smarter range-input-${goalPoints.smarter} w-full bg-white h-2 rounded-full `}
           />
           <div
-            className="h-8 w-8 bg-lightGreen rounded-full absolute -top-1 text-white flex justify-center items-center"
+            className="h-8 w-8 bg-lightGreen rounded-full absolute -top-1 text-black flex justify-center items-center"
             style={{ left: `${23 * (goalPoints.smarter - 1)}%` }}
           >
             {goalPoints.smarter}
@@ -138,7 +138,7 @@ const GoalSetting = () => {
             className={`range-input sustainable range-input-${goalPoints.sustainable} w-full bg-white h-2 rounded-full `}
           />
           <div
-            className="h-8 w-8 bg-lightYellow rounded-full absolute -top-1 text-white flex justify-center items-center"
+            className="h-8 w-8 bg-lightYellow rounded-full absolute -top-1 text-black flex justify-center items-center"
             style={{ left: `${23 * (goalPoints.sustainable - 1)}%` }}
           >
             {goalPoints.sustainable}
@@ -169,7 +169,7 @@ const GoalSetting = () => {
             className={`range-input community range-input-${goalPoints.community} w-full bg-white h-2 rounded-full `}
           />
           <div
-            className="h-8 w-8 bg-lightOrange rounded-full absolute -top-1 text-white flex justify-center items-center"
+            className="h-8 w-8 bg-lightOrange rounded-full absolute -top-1 text-black flex justify-center items-center"
             style={{ left: `${23 * (goalPoints.community - 1)}%` }}
           >
             {goalPoints.community}
