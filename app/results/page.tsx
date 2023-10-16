@@ -9,8 +9,7 @@ import "slick-carousel/slick/slick-theme.css";
 import AppNavigation from "../../components/appNavigation";
 import Alert from "../../components/ALert";
 import Image from "next/image";
-
-const alternateProductGoals = "two";
+import productData from "../../data/productsForDemo.json";
 
 const settings = {
 	dots: true,
@@ -47,87 +46,6 @@ const settings = {
 	],
 };
 
-const product = {
-	sku: "8710447365403",
-	productName: "Love Beauty And Planet Volume & Bounty Conditioner",
-	isUnileverProduct: true,
-	price: 2.57,
-	health: 1,
-	wellbeing: 1,
-	sustainability: 2,
-	community: 0,
-	affordability: 5,
-	imageAltText: "Volume and Fullness Shampoo",
-	imageUrl:
-		"https://assets.unileversolutions.com/v2/w600/ch-retailer/web/0lm4z0r-iECbs9K6yQYghg/88591310.jpeg",
-	pageUrl:
-		"https://www.dove.com/us/en/p/volume-and-fullness-shampoo.html/00079400458018",
-	shortDescription:
-		"Dove Ultra Care Shampoo Hair Volume & Fullness Shampoo with Bio-Restore Complex 12 fl oz",
-};
-const alterznAmteproduct = {
-	sku: "8710847949487",
-	productName:
-		"Love Beauty and Planet Blooming Colour Shampoo Bar for Colour-Treated Hair 50 Washes",
-	isUnileverProduct: true,
-	price: 2.57,
-	health: 1,
-	wellbeing: 1,
-	sustainability: 2,
-	community: 0,
-	affordability: 5,
-	imageAltText: "Volume and Fullness Shampoo",
-	imageUrl:
-		"https://assets.unileversolutions.com/v2/w600/ch-retailer/web/0lm4z0r-iECbs9K6yQYghg/88591310.jpeg",
-	pageUrl:
-		"https://www.dove.com/us/en/p/volume-and-fullness-shampoo.html/00079400458018",
-	shortDescription:
-		"Dove Ultra Care Shampoo Hair Volume & Fullness Shampoo with Bio-Restore Complex 12 fl oz",
-};
-
-const offsetGoals = [
-	{
-		offsetActivity: "Walk or bike instead of driving",
-		description:
-			"Choose walking or biking for short trips to reduce carbon emissions and improve personal health.",
-		health: 5,
-		wellbeing: 5,
-		affordability: 5,
-		sustainability: 5,
-		community: 0,
-	},
-	{
-		offsetActivity: "Walk or bike instead of driving",
-		description:
-			"Choose walking or biking for short trips to reduce carbon emissions and improve personal health.",
-		health: 5,
-		wellbeing: 5,
-		affordability: 5,
-		sustainability: 5,
-		community: 0,
-	},
-	{
-		offsetActivity: "Walk or bike instead of driving",
-		description:
-			"Choose walking or biking for short trips to reduce carbon emissions and improve personal health.",
-		health: 5,
-		wellbeing: 5,
-		affordability: 5,
-		sustainability: 5,
-		community: 0,
-	},
-	{
-		offsetActivity: "Walk or bike instead of driving",
-		description:
-			"Choose walking or biking for short trips to reduce carbon emissions and improve personal health.",
-		health: 5,
-		wellbeing: 5,
-		affordability: 5,
-		sustainability: 5,
-		community: 0,
-	},
-];
-
 const renderCards = (offsetGoals) => {
 	let offsetRender: any = [];
 
@@ -137,14 +55,26 @@ const renderCards = (offsetGoals) => {
 
 	return offsetRender;
 };
-const results = () => {
-	const [renderNotification, setRenderNotification] = useState(true);
+const results = ({ sku = "8006540810743" }) => {
+	const product = productData.scanResult.filter((item) => item.sku === sku);
+
+	const alternateProductGoals =
+		product[0].alternateProduct.userLifeGoalMatch -
+		product[0].userLifeGoalMatch;
+
+	const offsetGoals = productData.userOffsetActivities;
+
+	const [renderNotification, setRenderNotification] = useState(false);
 
 	useEffect(() => {
 		setTimeout(() => {
 			setRenderNotification(false);
 		}, 3000);
 	}, [renderNotification]);
+
+	const handleIconOnClick = () => {
+		setRenderNotification(true);
+	};
 	return (
 		<div className="result-page-wrapper relative">
 			{renderNotification && (
@@ -163,20 +93,30 @@ const results = () => {
 					</h3>
 				</Alert>
 			)}
-			<ProductCard
-				product={product}
-				full={true}
-				isUnileverProduct={product.isUnileverProduct}
-			/>
+			<div>
+				<ProductCard
+					product={product[0]}
+					full={true}
+					userGoalsMatched={product[0].userLifeGoalMatch}
+					isUnileverProduct={product[0].isUnileverProduct}
+				/>
+			</div>
 			<div className="alternate-product-wrapper">
-				<div className="alternate-product-wrapper-icon"></div>
+				<div
+					className="alternate-product-wrapper-icon"
+					role="button"
+					onClick={() => handleIconOnClick()}></div>
 				<h3 className="alternate-product-heading">
-					SWAP to this and hit {alternateProductGoals} more goals!
+					SWAP to this and hit {alternateProductGoals} more goal
+					{alternateProductGoals > 1 ? "s" : ""}!
 				</h3>
 				<p className="alternate-product-description">
 					Waste reduction / Refillable Products
 				</p>
-				<ProductCard product={product} full={false} />
+				<ProductCard
+					product={product[0].alternateProduct.product}
+					full={false}
+				/>
 			</div>
 
 			<div className="offset-div-wrapper">

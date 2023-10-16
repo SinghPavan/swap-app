@@ -2,12 +2,18 @@ import React from "react";
 import Image from "next/image";
 
 const productCard = (props) => {
-	return (
-		<div className="product-card-wrapper">
+	return !props.renderForListing ? (
+		<div
+			className={`product-card-wrapper ${
+				props.smallFonts ? "font-small" : ""
+			}`}>
 			{props.full && (
 				<div className="top-section justify-around items-center flex p-4">
 					<div className="goal-indicator">
-						<h1 className="text-blue-500">2 GOALS MATCHED</h1>
+						<h1 className="text-blue-500">
+							{props.userGoalsMatched} GOAL
+							{props.userGoalsMatched > 1 ? "S" : ""} MATCHED
+						</h1>
 					</div>
 					<span className="light-icon flex"></span>
 					{props.isUnileverProduct && (
@@ -43,6 +49,40 @@ const productCard = (props) => {
 						</p>
 					)}
 				</span>
+				<div className="buynow-wrapper">
+					<p className="product-price">From £{props.product.price}</p>
+					<button className="product-buyNow"></button>
+				</div>
+			</div>
+		</div>
+	) : (
+		<div
+			className={`product-card-wrapper font-small render-for-listing relative`}>
+			<div className="top-section absolute">
+				{props.isUnileverProduct && (
+					<span
+						className="heart-icon flex"
+						onClick={(event) => {
+							(event.target as HTMLInputElement).classList.toggle("active");
+						}}></span>
+				)}
+			</div>
+			<div className="middle-section justify-around items-center flex flex-wrap">
+				<Image
+					src={props.product.imageUrl}
+					alt="Product Photo"
+					width={91}
+					height={93}
+				/>
+			</div>
+			<div className="bottom-section">
+				<h3 className="product-title">{props.product.productName}</h3>
+				<div className="goal-indicator">
+					<h1 className="text-blue-500">
+						{props.userGoalsMatched} GOAL
+						{props.userGoalsMatched > 1 ? "S" : ""} MATCHED
+					</h1>
+				</div>
 				<div className="buynow-wrapper">
 					<p className="product-price">From £{props.product.price}</p>
 					<button className="product-buyNow"></button>

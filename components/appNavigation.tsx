@@ -14,7 +14,7 @@ const AppNavigation = () => {
 			</div>
 			<div className="products-button">
 				<button className="app-navigation-button">
-					<Link href="/results" role="button">
+					<Link href="/product-listing" role="button">
 						<div className="products-icon" />
 						Products
 					</Link>
