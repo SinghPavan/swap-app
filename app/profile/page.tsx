@@ -35,7 +35,7 @@ const profile = () => {
   }, []);
 
   return (
-    <div className="profile flex flex-col items-center px-4">
+    <div className="profile flex flex-col items-center px-4 slide-in-element">
       <p className=" text-xl text-center mt-5 mb-2.5">Profile</p>
       <Image
         src={"/assets/profile.svg"}

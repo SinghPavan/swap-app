@@ -1,10 +1,20 @@
 import Image from "next/image";
+import Head from "next/head";
 import Link from "next/link";
 import React from "react";
+import { Metadata } from "next";
 
+export const metadata: Metadata = {
+  title: "SWAP",
+  description: "Life Goals App",
+};
 export default function Home() {
   return (
     <main className="home ">
+      <Head>
+        <title>SWAP</title>
+        <meta property="og:title" content="SWAP - life goals app" key="title" />
+      </Head>
       <div className="heading">
         <h1 className="flex flex-col items-center text-center text-lightYellow text-xl">
           Welcome to
@@ -32,8 +42,6 @@ export default function Home() {
         <Link className="text-center mt-4 text-primary" href="/auth/signup">
           Login
         </Link>
-        <Link href="/profile">profile</Link>
-        <Link href="/scan">scan</Link>
       </div>
     </main>
   );

@@ -11,11 +11,11 @@ export const GoalsContext = createContext({});
 
 const SetGoals = () => {
   const [goalPoints, setGoalPoints] = useState({
-    health: 3,
-    wellbeing: 3,
-    smarter: 3,
-    sustainable: 3,
-    community: 3,
+    health: 5,
+    wellbeing: 5,
+    smarter: 5,
+    sustainable: 5,
+    community: 5,
   });
 
   const data = [
@@ -195,7 +195,7 @@ const SetGoals = () => {
   ];
 
   return (
-    <div className="mt-12">
+    <div className="mt-12 slide-in-element">
       <h1 className="px-8 text-3xl text-lightYellow text-left flex">
         Set your goals
       </h1>
