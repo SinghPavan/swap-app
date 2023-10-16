@@ -1,5 +1,7 @@
 "use client";
 import GoalsChart from "@/components/GoalChart";
+import AppNavigation from "@/components/appNavigation";
+
 import Image from "next/image";
 import Link from "next/link";
 import React, { useEffect, useState } from "react";
@@ -89,8 +91,8 @@ const profile = () => {
           </Swiper>
         </div>
       </div>
+      <AppNavigation />
     </div>
   );
 };
-
 export default profile;
