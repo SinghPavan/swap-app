@@ -1,11 +1,14 @@
 "use client";
 
-import React from "react";
+import React, { useEffect, useState } from "react";
 import ProductCard from "../../components/molecules/ProductCard";
-import OffsetCard from "../../components/molecules/OffsetCard";
+import Card from "../../components/molecules/Card";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import AppNavigation from "../../components/appNavigation";
+import Alert from "../../components/ALert";
+import Image from "next/image";
 
 const alternateProductGoals = "two";
 
@@ -45,9 +48,9 @@ const settings = {
 };
 
 const product = {
-	sku: "5057172029709",
-	productName: "Asda Galactic Ice Cream 900ml",
-	isUnileverProduct: false,
+	sku: "8710447365403",
+	productName: "Love Beauty And Planet Volume & Bounty Conditioner",
+	isUnileverProduct: true,
 	price: 2.57,
 	health: 1,
 	wellbeing: 1,
@@ -63,9 +66,10 @@ const product = {
 		"Dove Ultra Care Shampoo Hair Volume & Fullness Shampoo with Bio-Restore Complex 12 fl oz",
 };
 const alterznAmteproduct = {
-	sku: "5057172029709",
-	productName: "Asda Galactic Ice Cream 900ml",
-	isUnileverProduct: false,
+	sku: "8710847949487",
+	productName:
+		"Love Beauty and Planet Blooming Colour Shampoo Bar for Colour-Treated Hair 50 Washes",
+	isUnileverProduct: true,
 	price: 2.57,
 	health: 1,
 	wellbeing: 1,
@@ -124,24 +128,46 @@ const offsetGoals = [
 	},
 ];
 
-const renderOffsetCards = (offsetGoals) => {
+const renderCards = (offsetGoals) => {
 	let offsetRender: any = [];
 
 	offsetGoals.forEach((item) => {
-		offsetRender.push(<OffsetCard offset={item} />);
+		offsetRender.push(<Card offset={item} route={"/"} ctaText={"More Info"} />);
 	});
 
 	return offsetRender;
 };
-
-// getResultsforSKU('asds',{
-//     helath: 5,
-//     ...
-// })
 const results = () => {
+	const [renderNotification, setRenderNotification] = useState(true);
+
+	useEffect(() => {
+		setTimeout(() => {
+			setRenderNotification(false);
+		}, 3000);
+	}, [renderNotification]);
 	return (
-		<div className="result-page-wrapper">
-			<ProductCard product={product} full={true} />
+		<div className="result-page-wrapper relative">
+			{renderNotification && (
+				<Alert>
+					<Image
+						className="swap-logo"
+						src="/assets/swap-logo.svg"
+						alt="Logo"
+						width={224}
+						height={112}
+					/>
+					<h2>🌟 Your Goals, Your Savings at Boots</h2>
+					<h3>
+						Explore products that support your life goals and save big. Click to
+						see the offers!
+					</h3>
+				</Alert>
+			)}
+			<ProductCard
+				product={product}
+				full={true}
+				isUnileverProduct={product.isUnileverProduct}
+			/>
 			<div className="alternate-product-wrapper">
 				<div className="alternate-product-wrapper-icon"></div>
 				<h3 className="alternate-product-heading">
@@ -154,8 +180,9 @@ const results = () => {
 			</div>
 
 			<div className="offset-div-wrapper">
-				<Slider {...settings}>{renderOffsetCards(offsetGoals)}</Slider>
+				<Slider {...settings}>{renderCards(offsetGoals)}</Slider>
 			</div>
+			<AppNavigation />
 		</div>
 	);
 };
