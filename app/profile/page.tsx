@@ -5,7 +5,7 @@ import AppNavigation from "@/components/appNavigation";
 import Image from "next/image";
 import Link from "next/link";
 import React, { useEffect, useState } from "react";
-import { OffsetCard } from "@/components/molecules/OffsetCard";
+import { Card } from "@/components/molecules/Card";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 
@@ -79,7 +79,7 @@ const profile = () => {
             {tipsData.map((item, index) => {
               return (
                 <SwiperSlide key={index}>
-                  <OffsetCard prop={item} />
+                  {/* <OffsetCard prop={item} /> */}
                 </SwiperSlide>
               );
             })}
