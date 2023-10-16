@@ -5,20 +5,20 @@ import AppNavigation from "@/components/appNavigation";
 import Image from "next/image";
 import Link from "next/link";
 import React, { useEffect, useState } from "react";
-import { Card } from "@/components/molecules/Card";
+import Tips from "@/components/molecules/Tips";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 
 const tipsData = [
   {
-    icon: "/assets/tip.svg",
+    icon: "/assets/tips.svg",
     title: "Scan product",
     description: "Tip about scanning product, how to reach your goals easier.",
     button: "Scan a product",
     route: "/scan",
   },
   {
-    icon: "/assets/tip.svg",
+    icon: "/assets/tips.svg",
     title: "Scan product",
     description: "Tip about scanning product, how to reach your goals easier.",
     button: "Scan a product",
@@ -30,7 +30,7 @@ const profile = () => {
   const [value, setValue] = useState([{}]);
 
   useEffect(() => {
-    const data = JSON.parse(localStorage.getItem("chartState"));
+    const data = JSON.parse(localStorage.getItem("chartState")!);
     setValue(data);
   }, []);
 
@@ -66,7 +66,7 @@ const profile = () => {
       </div>
       <div className="tips">
         <h3>Tips and Tricks</h3>
-        <div className="tips-card">
+        <div className="tips-card" >
           <Swiper
             slidesPerView={"auto"}
             spaceBetween={30}
@@ -79,7 +79,7 @@ const profile = () => {
             {tipsData.map((item, index) => {
               return (
                 <SwiperSlide key={index}>
-                  {/* <OffsetCard prop={item} /> */}
+                  <Tips tips={item}/>
                 </SwiperSlide>
               );
             })}

@@ -12,7 +12,24 @@
 		"imageAltText": "Volume and Fullness Shampoo",
 		"imageUrl": "https://assets.unileversolutions.com/v2/w600/ch-retailer/web/0lm4z0r-iECbs9K6yQYghg/88591310.jpeg",
 		"pageUrl": "https://www.dove.com/us/en/p/volume-and-fullness-shampoo.html/00079400458018",
-		"shortDescription": "Dove Ultra Care Shampoo Hair Volume & Fullness Shampoo with Bio-Restore Complex 12 fl oz"
+		"shortDescription": "Dove Ultra Care Shampoo Hair Volume & Fullness Shampoo with Bio-Restore Complex 12 fl oz",
+		"alternateProduct": {
+			"product": {
+				"sku": "3274664142070",
+				"productName": "Roar Plant Based Ice Cream Hemp Seed Chocolate Brownie 500ml",
+				"isUnileverProduct": false,
+				"price": 5,
+				"health": 2,
+				"wellbeing": 2,
+				"sustainability": 3,
+				"community": 3,
+				"affordability": 2,
+				"imageAltText": "Volume and Fullness Shampoo",
+				"imageUrl": "https://assets.unileversolutions.com/v2/w600/ch-retailer/web/0lm4z0r-iECbs9K6yQYghg/88591310.jpeg",
+				"pageUrl": "https://www.dove.com/us/en/p/volume-and-fullness-shampoo.html/00079400458018",
+				"shortDescription": "Dove Ultra Care Shampoo Hair Volume & Fullness Shampoo with Bio-Restore Complex 12 fl oz"
+			}
+		}
 	},
 	{
 		"sku": "3274664173807",
