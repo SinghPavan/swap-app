@@ -26,7 +26,7 @@ const SignUpForm = () => {
     return "";
   };
 
-  const submitForm = (e) => {
+  const submitForm = (e: any) => {
     console.log("e");
   };
 

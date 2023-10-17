@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 
-const productCard = (props) => {
+const productCard = (props: any) => {
 	return (
 		<div className="product-card-wrapper">
 			{props.full && (

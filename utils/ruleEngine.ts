@@ -104,7 +104,7 @@ export const getResultsForSKU = (sku: any, lifeGoals: LifeGoals) => {
 
 export const getAlternateProductForSKU = (sku: any, lifeGoals: LifeGoals) => {
 	let alternateProducts: any[] = [];
-	let { alternateProductGoals } = getResultsForSKU(sku, lifeGoals);
+	let { alternateProductGoals }: any = getResultsForSKU(sku, lifeGoals);
 
 	let {
 		healthLifeGoalsProducts,
@@ -112,7 +112,7 @@ export const getAlternateProductForSKU = (sku: any, lifeGoals: LifeGoals) => {
 		sustainabilityLifeGoalsProducts,
 		communityLifeGoalsProducts,
 		affordabilityLifeGoalsProducts,
-	} = sortProductsOnGoals(lifeGoals);
+	}: any = sortProductsOnGoals(lifeGoals);
 
 	var list = alternateProductGoals;
 	let keysSorted = Object.keys(list).sort(function (a, b) {
@@ -120,7 +120,7 @@ export const getAlternateProductForSKU = (sku: any, lifeGoals: LifeGoals) => {
 	});
 	console.log(keysSorted);
 
-	keysSorted.map((key) => {
+	keysSorted.map((key: string) => {
 		if (alternateProductGoals[key] && key === "health") {
 			alternateProducts.push(healthLifeGoalsProducts[0]);
 		}
@@ -143,7 +143,7 @@ export const getAlternateProductForSKU = (sku: any, lifeGoals: LifeGoals) => {
 
 export const getOffsetsForSKU = (sku: any, lifeGoals: LifeGoals) => {
 	let offsetGoals: any[] = [];
-	let { findOffsetGoals } = getResultsForSKU(sku, lifeGoals);
+	let { findOffsetGoals }: any = getResultsForSKU(sku, lifeGoals);
 
 	let {
 		healthLifeGoalsProducts,
@@ -151,7 +151,7 @@ export const getOffsetsForSKU = (sku: any, lifeGoals: LifeGoals) => {
 		sustainabilityLifeGoalsProducts,
 		communityLifeGoalsProducts,
 		affordabilityLifeGoalsProducts,
-	} = sortProductsOnGoals(lifeGoals);
+	}: any = sortProductsOnGoals(lifeGoals);
 
 	var list = findOffsetGoals;
 	let keysSorted = Object.keys(list).sort(function (a, b) {

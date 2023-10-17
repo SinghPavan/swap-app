@@ -27,7 +27,7 @@ const tipsData = [
   },
 ];
 
-const profile = () => {
+const Profile = () => {
   const [value, setValue] = useState([{}]);
 
   const [userData, setUserData] = useState({});
@@ -98,4 +98,4 @@ const profile = () => {
     </div>
   );
 };
-export default profile;
+export default Profile;
