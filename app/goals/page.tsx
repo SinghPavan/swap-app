@@ -10,13 +10,22 @@ import React, { useState, createContext, useContext, useEffect } from "react";
 export const GoalsContext = createContext({});
 
 const SetGoals = () => {
-  const [goalPoints, setGoalPoints] = useState({
-    health: 3,
-    wellbeing: 3,
-    smarter: 3,
-    sustainable: 3,
-    community: 3,
-  });
+  const initialState = () => {
+    const chartState = JSON.parse(localStorage.getItem("goalState")!);
+    console.log("data", chartState);
+    if (chartState) {
+      return chartState;
+    } else {
+      return {
+        health: 3,
+        wellbeing: 3,
+        smarter: 3,
+        sustainable: 3,
+        community: 3,
+      };
+    }
+  };
+  const [goalPoints, setGoalPoints] = useState(initialState);
 
   const data = [
     { label: "health", value: goalPoints.health, color: "#F652C5" },
@@ -225,9 +234,10 @@ const SetGoals = () => {
               <button
                 type="button"
                 className="w-full flex justify-center mt-12"
-                onClick={() =>
-                  localStorage.setItem("chartState", JSON.stringify(data1))
-                }
+                onClick={() => {
+                  localStorage.setItem("chartState", JSON.stringify(data1));
+                  localStorage.setItem("goalState", JSON.stringify(goalPoints));
+                }}
               >
                 <Image
                   src="/assets/next-btn.svg"

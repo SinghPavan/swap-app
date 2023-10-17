@@ -4,7 +4,8 @@ import AppNavigation from "@/components/appNavigation";
 
 import Image from "next/image";
 import Link from "next/link";
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState, useContext } from "react";
+
 import Tips from "@/components/molecules/Tips";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
@@ -29,8 +30,12 @@ const tipsData = [
 const profile = () => {
   const [value, setValue] = useState([{}]);
 
+  const [userData, setUserData] = useState({});
+
   useEffect(() => {
     const data = JSON.parse(localStorage.getItem("chartState")!);
+    const userData = JSON.parse(localStorage.getItem("userData")!);
+    setUserData(userData);
     setValue(data);
   }, []);
 
@@ -43,7 +48,7 @@ const profile = () => {
         width={225}
         height={225}
       />
-      <p className="text-2xl mt-4 text-lightYellow font-black ">Alison Smith</p>
+      <p className="text-2xl mt-4 text-lightYellow font-black ">{`${userData?.firstname} ${userData?.lastname}`}</p>
       <p className="text-center text-sm ">
         Earn more points to unlock rewards and support sustainable initiatives
       </p>
