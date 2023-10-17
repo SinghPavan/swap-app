@@ -2,12 +2,13 @@
 import GoalsChart from "@/components/GoalChart";
 // import RadarChart from "@/components/RadarChart";
 import GoalSetting from "@/components/GoalSetting";
-import RadarChart2 from "@/components/RadarChart2";
+// import RadarChart2 from "@/components/RadarChart2";
 import Image from "next/image";
 import Link from "next/link";
-import React, { useState, createContext, useContext, useEffect } from "react";
+import React, { useState, createContext } from "react";
+import { GoalsContext } from "@/utils/context";
 
-export const GoalsContext = createContext({});
+
 
 const SetGoals = () => {
   const [goalPoints, setGoalPoints] = useState({

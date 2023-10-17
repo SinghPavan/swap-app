@@ -1,5 +1,5 @@
 "use client";
-import { GoalsContext } from "@/app/goals/page";
+import { GoalsContext, GoalsContextType } from "@/utils/context";
 import Image from "next/image";
 import React, { useContext } from "react";
 
@@ -11,7 +11,11 @@ const GoalSetting = () => {
   //   sustainable: 3,
   //   community: 3,
   // });
-  const { goalPoints, setGoalPoints } = useContext(GoalsContext);
+  const contextValue = useContext(GoalsContext);
+  if(!contextValue){
+    return null;
+  }
+  const {goalPoints, setGoalPoints} = contextValue;
   console.log("goals", goalPoints);
   const handleChange = (e: any) => {
     const { name, value } = e.target;

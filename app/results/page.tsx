@@ -7,7 +7,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import AppNavigation from "../../components/appNavigation";
-import Alert from "../../components/ALert";
+import Alert from "../../components/Alert";
 import Image from "next/image";
 
 const alternateProductGoals = "two";
@@ -128,16 +128,16 @@ const offsetGoals = [
 	},
 ];
 
-const renderCards = (offsetGoals) => {
+const renderCards = (offsetGoals: any) => {
 	let offsetRender: any = [];
 
-	offsetGoals.forEach((item) => {
+	offsetGoals.forEach((item: any) => {
 		offsetRender.push(<Card offset={item} route={"/"} ctaText={"More Info"} />);
 	});
 
 	return offsetRender;
 };
-const results = () => {
+const Results = () => {
 	const [renderNotification, setRenderNotification] = useState(true);
 
 	useEffect(() => {
@@ -187,4 +187,4 @@ const results = () => {
 	);
 };
 
-export default results;
+export default Results;

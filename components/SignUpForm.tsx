@@ -1,5 +1,5 @@
 "use client";
-import InputField from "./InputField";
+// import InputField from "./InputField";
 const SignUpForm = () => {
   const validateEmail = (value: any) => {
     if (!value) {
@@ -22,7 +22,7 @@ const SignUpForm = () => {
     return "";
   };
 
-  const submitForm = (e) => {
+  const submitForm = (e: any) => {
     console.log("e");
   };
 
