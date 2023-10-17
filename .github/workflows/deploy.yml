@@ -3,11 +3,12 @@ name: SWAP APP GitHub Actions Pipeline
 on: 
   push:
     branches:
-      - main
+      - development
 
 jobs:
   job_deploy:
     name: "SWAP APP Deployment"
+    environment: dev
     runs-on: 'ubuntu-latest'
     steps:
     - id: 'code_checkout'
@@ -30,9 +31,4 @@ jobs:
 
     - name: 'SWAP APP Build'
       run: |
-           npm install 
-           npm run build
-    
-    - name: 'SWAP APP Deploy'
-      run: |
-           gsutil -m rsync -r -d ./out gs://${{ vars.GCS_BUCKET_NAME }}
+          gcloud run deploy --region=us-central1 --allow-unauthenticated swap-app --source . 
