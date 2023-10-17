@@ -20,6 +20,18 @@ module.exports = {
 				protocol: "https",
 				hostname: "assets.unileversolutions.com",
 			},
+			{
+				protocol: "https",
+				hostname: "images.ctfassets.net",
+			},
+			{
+				protocol: "https",
+				hostname: "cdn.sanity.io",
+			},
+			{
+				protocol: "https",
+				hostname: "i.postimg.cc",
+			},
 		],
 	},
 };
