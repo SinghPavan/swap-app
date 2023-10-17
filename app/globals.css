@@ -42,11 +42,11 @@
 
 /* Apply the animation to the slide-in-element class */
 .slide-in-element {
-    animation: slideIn 1s ease-in-out;
+    animation: slideIn 0.5s ease-in-out;
 }
 
 .slide-out-element {
-    animation: slideIn 1s ease-in-out;
+    animation: slideIn 0.5s ease-in-out;
 }
 a,
 h1,

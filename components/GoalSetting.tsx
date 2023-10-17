@@ -19,6 +19,52 @@ const GoalSetting = () => {
   console.log("goals", goalPoints);
   const handleChange = (e: any) => {
     const { name, value } = e.target;
+
+    if (name === "health") {
+      const newValue = Number(value);
+      const updatedMetrics = { ...goalPoints };
+
+      if (goalPoints.wellbeing <= newValue) {
+        updatedMetrics.wellbeing += 1;
+      }
+
+      if (goalPoints.smarter > 2) {
+        updatedMetrics.smarter -= 1;
+      }
+
+      if (goalPoints.sustainable <= newValue) {
+        updatedMetrics.sustainable += 1;
+      }
+
+      // if (goalPoints.health >= 4) {
+      //   updatedMetrics.community += 1;
+      // }
+
+      if (newValue >= 4 && updatedMetrics.community < 5) {
+        updatedMetrics.community += 1;
+      }
+
+      if (goalPoints.wellbeing >= newValue) {
+        updatedMetrics.wellbeing -= 1;
+      }
+
+      if (goalPoints.smarter < 4) {
+        updatedMetrics.smarter += 1;
+      }
+
+      if (goalPoints.sustainable > 2) {
+        updatedMetrics.sustainable -= 1;
+      }
+
+      if (newValue < 2 && updatedMetrics.community > 1) {
+        updatedMetrics.community -= 1;
+      }
+
+      setGoalPoints({ ...updatedMetrics, [name]: newValue });
+    } else {
+      setGoalPoints({ ...goalPoints, [name]: Number(value) });
+    }
+
     // if (name === "health") {
     //   const newValue = Number(value);
     //   const newAffordabilityValue =
@@ -58,7 +104,7 @@ const GoalSetting = () => {
     //     community: newAffordabilityValue,
     //   });
     // } else {
-    setGoalPoints({ ...goalPoints, [name]: Number(value) });
+    // setGoalPoints({ ...goalPoints, [name]: Number(value) });
     // }
   };
 
