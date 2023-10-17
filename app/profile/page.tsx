@@ -30,7 +30,7 @@ const tipsData = [
 const Profile = () => {
   const [value, setValue] = useState([{}]);
 
-  const [userData, setUserData] = useState({});
+  const [userData, setUserData]: any = useState({});
 
   useEffect(() => {
     const data = JSON.parse(localStorage.getItem("chartState")!);

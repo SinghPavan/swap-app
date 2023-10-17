@@ -1,9 +1,16 @@
 "use client";
 import React, { useContext } from "react";
-import { UserContext } from "@/app/auth/signup/page";
+// import { UserContext } from "@/app/auth/signup/page";
+import { UserContext } from "@/utils/context";
 
 const SignUpForm = () => {
-  const { userData, setUserData } = useContext(UserContext);
+
+  const contextValue = useContext(UserContext);
+
+  if(!contextValue){
+    return null;
+  }
+  const { userData, setUserData } = contextValue;
 
   const validateEmail = (value: any) => {
     if (!value) {

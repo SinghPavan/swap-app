@@ -3,8 +3,9 @@ import SSO from "@/components/SSO";
 import SignUpForm from "@/components/SignUpForm";
 import Image from "next/image";
 import Link from "next/link";
-import React, { useState, createContext, useContext, useEffect } from "react";
-export const UserContext = createContext({});
+import React, { useState } from "react";
+import { UserContext } from "@/utils/context";
+
 const Signup = () => {
   const [userData, setUserData] = useState({
     firstname: "",
