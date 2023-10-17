@@ -1,5 +1,18 @@
 import React, { createContext } from "react";
 
+interface UserData {
+  firstname: string;
+  lastname: string;
+}
+
+// Define the type for the context value
+interface UserContextType {
+  userData: UserData;
+  setUserData: React.Dispatch<React.SetStateAction<UserData>>;
+}
+
+export const UserContext = createContext<UserContextType | null>(null);
+
 export interface GoalsContextType {
     goalPoints: {
       health: number;

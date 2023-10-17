@@ -93,7 +93,7 @@ export const Picture = () => {
         codeReader.reset();
         codeReader.stopContinuousDecode();
         SetCodeReader(new ZXing.BrowserMultiFormatReader())
-        router.push('profile');
+        router.push('results');
       }
       if (err && !(err instanceof ZXing.NotFoundException)) {
         console.error(err)
