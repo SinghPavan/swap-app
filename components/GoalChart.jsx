@@ -52,7 +52,7 @@ function GoalsChart({ data }) {
               name={entry.subject}
               dataKey="A"
               stroke={entry.color}
-              fill={entry.color}
+              fill="#00ffa4"
               fillOpacity={0.6}
             />
           ))}

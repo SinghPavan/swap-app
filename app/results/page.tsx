@@ -117,11 +117,14 @@ const Results = () => {
           {alternateProductGoals > 1 ? "s" : ""}!
         </h3>
         <p className="alternate-product-description">
-          Waste reduction / Refillable Products
+          Health, Wellbeing, and Affordability
         </p>
         <ProductCard
           product={product[0]?.alternateProduct.product}
           full={false}
+          isUnileverProduct={
+            product[0]?.alternateProduct?.product?.isUnileverProduct
+          }
         />
       </div>
 
