@@ -6,7 +6,7 @@ import Image from "next/image";
 const productCard = (props: any) => {
   function handleCartWire(e: any) {
     
-    (window as any)?.loadsWidget('166e9ca9fbb38bad6001ec24f42b3377', e,'retailPopup','en');
+    (window as any)?.loadsWidget('51f53e6eb07eaba25291af265b15d458', e,'retailPopup','en');
     
   }
 
@@ -44,7 +44,7 @@ const productCard = (props: any) => {
       </div>
       <div className="bottom-section">
         <h3 className="product-title">{props?.product?.productName}</h3>
-        <span>
+        {/* <span>
           {props.full && (
             <p className="product-description">
               {props?.product?.shortDescription + " "}
@@ -57,11 +57,11 @@ const productCard = (props: any) => {
               </a>
             </p>
           )}
-        </span>
-        <div className="buynow-wrapper">
+        </span> */}
+        {props.product.price && <div className="buynow-wrapper">
           <p className="product-price">From £{props?.product?.price}</p>
-          <button className="product-buyNow" onClick={handleCartWire} ></button>
-        </div>
+          <button className="product-buyNow"  onClick={handleCartWire}></button>
+        </div>}
       </div>
     </div>
   ) : (
@@ -96,7 +96,7 @@ const productCard = (props: any) => {
         </div>
         <div className="buynow-wrapper">
           <p className="product-price">From £{props.product.price}</p>
-          <button className="product-buyNow"></button>
+          <button className="product-buyNow" onClick={handleCartWire}></button>
         </div>
       </div>
     </div>
