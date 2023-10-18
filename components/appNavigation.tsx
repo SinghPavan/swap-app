@@ -6,7 +6,7 @@ const AppNavigation = () => {
 		<div className="app-navigation">
 			<div className="home-button">
 				<button className="app-navigation-button">
-					<Link href="/" role="button">
+					<Link href="/profile" role="button">
 						<div className="home-icon" />
 						Home
 					</Link>
