@@ -3,13 +3,11 @@
 import React, { useEffect, useState } from "react";
 import ProductCard from "../../components/molecules/ProductCard";
 import Card from "../../components/molecules/Card";
-import Slider from "react-slick";
-import "slick-carousel/slick/slick.css";
-import "slick-carousel/slick/slick-theme.css";
 import AppNavigation from "../../components/appNavigation";
 import Alert from "../../components/Alert";
 import Image from "next/image";
 import productData from "../../data/productsForDemo.json";
+import { Swiper, SwiperSlide } from "swiper/react";
 
 const settings = {
 	dots: true,
@@ -49,18 +47,25 @@ const settings = {
 const renderCards = (offsetGoals: any) => {
 	let offsetRender: any = [];
 
-	offsetGoals.forEach((item: any) => {
-		offsetRender.push(<Card offset={item} route={"/"} ctaText={"More Info"} />);
+	offsetGoals.forEach((item: any, index: number) => {
+		offsetRender.push(
+			<SwiperSlide key={index}>
+				{" "}
+				<Card offset={item} route={"/"} ctaText={"More Info"} />{" "}
+			</SwiperSlide>
+		);
 	});
 
 	return offsetRender;
 };
-const Results = ({ sku = "8006540810743" }: any) => {
-	const product = productData.scanResult.filter((item) => item.sku === sku);
+const Results = () => {
+	const product = productData.scanResult.filter(
+		(item: any) => item.sku === "8006540810743"
+	);
 
 	const alternateProductGoals =
-		product[0].alternateProduct.userLifeGoalMatch -
-		product[0].userLifeGoalMatch;
+		product[0]?.alternateProduct?.userLifeGoalMatch -
+		product[0]?.userLifeGoalMatch;
 
 	const offsetGoals = productData.userOffsetActivities;
 
