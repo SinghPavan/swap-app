@@ -1,13 +1,14 @@
 import React from "react";
 import Image from "next/image";
-// import "https://s3.cartwire.co/widget/js/widget_master_v2.js";
 
-
-const productCard = (props: any) => {
+const ProductCard = (props: any) => {
   function handleCartWire(e: any) {
-    
-    (window as any)?.loadsWidget('166e9ca9fbb38bad6001ec24f42b3377', e,'retailPopup','en');
-    
+    (window as any)?.loadsWidget(
+      "166e9ca9fbb38bad6001ec24f42b3377",
+      e,
+      "retailPopup",
+      "en"
+    );
   }
 
   return !props.renderForListing ? (
@@ -15,22 +16,20 @@ const productCard = (props: any) => {
       className={`product-card-wrapper ${props.smallFonts ? "font-small" : ""}`}
     >
       {props.full && (
-        <div className="top-section justify-around items-center flex p-4">
-          <div className="goal-indicator">
-            <h1 className="text-blue-500">
+        <div className="top-section justify-between items-center flex p-4">
+          <div className="goal-indicator flex gap-2">
+            <span className="text-primary px-4 py-2 font-bold bg-lightYellow rounded-full">
               {props.userGoalsMatched} GOAL
               {props.userGoalsMatched > 1 ? "S" : ""} MATCHED
-            </h1>
+            </span>
+            <span className="light-icon flex"></span>
           </div>
-          <span className="light-icon flex"></span>
-          {props.isUnileverProduct && (
-            <span
-              className="heart-icon flex"
-              onClick={(event) => {
-                (event.target as HTMLInputElement)?.classList?.toggle("active");
-              }}
-            ></span>
-          )}
+          <span
+            className="heart-icon flex"
+            onClick={(event) => {
+              (event.target as HTMLInputElement)?.classList?.toggle("active");
+            }}
+          ></span>
         </div>
       )}
       <div className="middle-section justify-around items-center flex p-4">
@@ -45,7 +44,7 @@ const productCard = (props: any) => {
       <div className="bottom-section">
         <h3 className="product-title">{props?.product?.productName}</h3>
         <span>
-          {props.full && (
+          {props?.product?.shortDescription && (
             <p className="product-description">
               {props?.product?.shortDescription + " "}
               <a
@@ -58,10 +57,15 @@ const productCard = (props: any) => {
             </p>
           )}
         </span>
-        <div className="buynow-wrapper">
-          <p className="product-price">From £{props?.product?.price}</p>
-          <button className="product-buyNow" onClick={handleCartWire} ></button>
-        </div>
+        {props?.isUnileverProduct && (
+          <div className="buynow-wrapper">
+            <p className="product-price">From £{props?.product?.price}</p>
+            <button
+              className="product-buyNow"
+              onClick={handleCartWire}
+            ></button>
+          </div>
+        )}
       </div>
     </div>
   ) : (
@@ -95,7 +99,7 @@ const productCard = (props: any) => {
           </h1>
         </div>
         <div className="buynow-wrapper">
-          <p className="product-price">From £{props.product.price}</p>
+          <p className="product-price">From £{props?.product?.price}</p>
           <button className="product-buyNow"></button>
         </div>
       </div>
@@ -103,4 +107,4 @@ const productCard = (props: any) => {
   );
 };
 
-export default productCard;
+export default ProductCard;

@@ -63,21 +63,15 @@ div {
 
 .home {
 	background: url("../public/assets/landing-background.svg") no-repeat;
-	/* background-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22390%22%20height%3D%22844%22%20viewBox%3D%220%200%20390%20844%22%20fill%3D%22none%22%3E%3Cpath%20d%3D%22M195.672%20855.984C320.675%20855.984%20422%20753.899%20422%20627.992C422%20502.086%20320.659%20400%20195.672%20400C70.6841%20400%20-30.6564%20297.914%20-30.6564%20172.008C-30.6564%2046.1011%2070.6687%20-56%20195.672%20-56C-54.3344%20-56%20-257%20148.156%20-257%20400C-257%20651.844%20-54.3344%20856%20195.672%20856V855.984Z%22%20fill%3D%22%2391DBF2%22%2F%3E%3C%2Fsvg%3E"); */
-background-position: center bottom;
-background-size: contain;
-width: 100%;
-
+	background-position: center bottom;
+	background-size: 100% 100%;
+	width: 100%;
 	height: 100vh;
 	@apply flex flex-col justify-center items-center;
 	position: relative;
 }
 
-.signup {
-	/* background: url("../public/assets/signup-background.svg") no-repeat; */
-	height: 100svh;
-	/* @apply flex flex-col justify-center items-center ; */
-}
+
 
 .profile {
 	/* background: url("../public/assets/profile-background.svg") no-repeat; */
@@ -125,7 +119,7 @@ body {
 	position: relative;
 }
 
-.goal-indicator {
+/* .goal-indicator {
 	width: 171px;
 	height: 40px;
 	padding: 10.068px 13.112px 10px 13.112px;
@@ -138,7 +132,7 @@ body {
 	font-style: normal;
 	font-weight: 600;
 	line-height: 120%;
-}
+} */
 
 .top-section {
 	width: 100%;
@@ -250,7 +244,7 @@ body {
 	align-items: center;
 }
 
-.offset-icon {
+/* .offset-icon {
 	background: #f652c5;
 	width: 76px;
 	height: 76px;
@@ -258,14 +252,14 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-}
-.offset-icon:after {
+} */
+/* .offset-icon:after {
 	display: block;
 	content: "";
 	background: url("../public/assets/cycle-icon.svg") no-repeat;
 	width: 65px;
 	height: 65px;
-}
+} */
 
 .offset-title {
 	color: #ed1a98;
@@ -581,6 +575,8 @@ input[type="range"]::-webkit-slider-thumb {
 	height: 127px;
 	border-radius: 19px;
 	background: rgba(3, 13, 40, 0.85);
+	position: absolute;
+	top: 0;
 
 	box-shadow: 0px 7px 30px 0px rgba(0, 0, 0, 0.25);
 	backdrop-filter: blur(4px);
@@ -797,5 +793,9 @@ input[type="range"]::-webkit-slider-thumb {
 }
 .swiper-slide{
 	flex-shrink: unset !important;
+}
+.tips-icon img .plants{
+	fill :white
+
 }
 

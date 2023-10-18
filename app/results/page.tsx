@@ -74,7 +74,7 @@ const Results = () => {
   useEffect(() => {
     setTimeout(() => {
       setRenderNotification(false);
-    }, 3000);
+    }, 5000);
   }, [renderNotification]);
 
   const handleIconOnClick = () => {
@@ -83,7 +83,7 @@ const Results = () => {
   return (
     <div className="result-page-wrapper relative overflow-x-hidden overflow-y-scroll">
       {renderNotification && (
-        <Alert>
+        <Alert className="absolute">
           <Image
             className="swap-logo"
             src="/assets/swap-logo.svg"
@@ -117,11 +117,14 @@ const Results = () => {
           {alternateProductGoals > 1 ? "s" : ""}!
         </h3>
         <p className="alternate-product-description">
-          Waste reduction / Refillable Products
+          Health, Wellbeing, and Affordability
         </p>
         <ProductCard
           product={product[0]?.alternateProduct.product}
           full={false}
+          isUnileverProduct={
+            product[0]?.alternateProduct?.product?.isUnileverProduct
+          }
         />
       </div>
 
