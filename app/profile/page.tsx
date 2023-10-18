@@ -20,8 +20,9 @@ const tipsData = [
   },
   {
     icon: "/assets/tips.svg",
-    title: "Scan product",
-    description: "Tip about scanning product, how to reach your goals easier.",
+    title: "Plant trees and maintain green spaces",
+    description:
+      "Plant trees and maintain green spaces in your community to enhance local ecosystems and air quality.",
     button: "Scan a product",
     route: "/scan",
   },
@@ -43,10 +44,11 @@ const Profile = () => {
     <div className="profile flex flex-col items-center px-4 slide-in-element overflow-y-scroll overflow-x-hidden">
       <p className=" text-xl text-center mt-5 mb-2.5">Profile</p>
       <Image
-        src={"/assets/profile.svg"}
+        src={"/assets/profile.jpg"}
         alt="profileImage"
         width={225}
         height={225}
+        className="rounded-full"
       />
       <p className="text-2xl mt-4 text-lightYellow font-black ">{`${userData?.firstname} ${userData?.lastname}`}</p>
       <p className="text-center text-sm ">
@@ -70,13 +72,14 @@ const Profile = () => {
         <GoalsChart data={value} />
       </div>
       <div className="tips ">
-        <h3 className="ml-32 text-2xl text-lightYellow mb-8">
+        <h3 className="ml-36 text-2xl text-lightYellow mb-8">
           Tips and Tricks
         </h3>
         <div className="tips-card mb-32">
           <Swiper
             slidesPerView={"auto"}
-            spaceBetween={0}
+            spaceBetween={20}
+            centeredSlides={true}
             pagination={{
               clickable: true,
             }}
@@ -85,7 +88,7 @@ const Profile = () => {
           >
             {tipsData.map((item, index) => {
               return (
-                <SwiperSlide className="mr-0" key={index}>
+                <SwiperSlide key={index}>
                   <Tips tips={item} />
                 </SwiperSlide>
               );

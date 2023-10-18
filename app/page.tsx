@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 };
 export default function Home() {
   return (
-    <main className="home px-8">
+    <main className="home">
       <Head>
         <title>SWAP</title>
         <meta property="og:title" content="SWAP - life goals app" key="title" />

@@ -3,13 +3,11 @@
 import React, { useEffect, useState } from "react";
 import ProductCard from "../../components/molecules/ProductCard";
 import Card from "../../components/molecules/Card";
-import Slider from "react-slick";
-import "slick-carousel/slick/slick.css";
-import "slick-carousel/slick/slick-theme.css";
 import AppNavigation from "../../components/appNavigation";
 import Alert from "../../components/Alert";
 import Image from "next/image";
 import productData from "../../data/productsForDemo.json";
+import { Swiper, SwiperSlide } from "swiper/react";
 
 const settings = {
   dots: true,
@@ -49,13 +47,18 @@ const settings = {
 const renderCards = (offsetGoals) => {
   let offsetRender: any = [];
 
-  offsetGoals.forEach((item: any) => {
-    offsetRender.push(<Card offset={item} route={"/"} ctaText={"More Info"} />);
+  offsetGoals.forEach((item: any, index: number) => {
+    offsetRender.push(
+      <SwiperSlide key={index}>
+        {" "}
+        <Card offset={item} route={"/"} ctaText={"More Info"} />{" "}
+      </SwiperSlide>
+    );
   });
 
   return offsetRender;
 };
-const results = ({ sku = "8006540810743" }) => {
+const Results = ({ sku = "8006540810743" }) => {
   const product = productData.scanResult.filter((item) => item.sku === sku);
 
   const alternateProductGoals =
@@ -76,7 +79,7 @@ const results = ({ sku = "8006540810743" }) => {
     setRenderNotification(true);
   };
   return (
-    <div className="result-page-wrapper relative">
+    <div className="result-page-wrapper relative overflow-x-hidden overflow-y-scroll">
       {renderNotification && (
         <Alert>
           <Image
@@ -121,7 +124,17 @@ const results = ({ sku = "8006540810743" }) => {
       </div>
 
       <div className="offset-div-wrapper">
-        <Slider {...settings}>{renderCards(offsetGoals)}</Slider>
+        <Swiper
+          slidesPerView={"auto"}
+          spaceBetween={20}
+          centeredSlides={true}
+          pagination={{
+            clickable: true,
+          }}
+          className="mySwiper"
+        >
+          {renderCards(offsetGoals)}
+        </Swiper>
       </div>
       <AppNavigation />
     </div>

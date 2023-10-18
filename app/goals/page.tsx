@@ -25,21 +25,21 @@ const SetGoals = () => {
     community: 3,
   });
 
-  const [goalPoints, setGoalPoints] = useState<ChartState>(chartState); 
+  const [goalPoints, setGoalPoints] = useState<ChartState>(chartState);
 
   // useEffect to set initial state from local storage
   useEffect(() => {
     console.log("hi", window.localStorage.getItem("goalState"));
-    const storedChartState = typeof window !== "undefined" ? JSON.parse(window.localStorage.getItem("goalState")!) : null ;
+    const storedChartState =
+      typeof window !== "undefined"
+        ? JSON.parse(window.localStorage.getItem("goalState")!)
+        : null;
 
     if (storedChartState) {
       setChartState(storedChartState);
       setGoalPoints(storedChartState);
-
-    } 
+    }
   }, []);
-  
-
 
   const data = [
     { label: "health", value: goalPoints?.health, color: "#F652C5" },
@@ -219,7 +219,6 @@ const SetGoals = () => {
     },
   ];
 
-
   return (
     <div className="mt-12 slide-in-element">
       <h1 className="px-8 text-3xl text-lightYellow text-left flex">
@@ -267,7 +266,6 @@ const SetGoals = () => {
       </div>
     </div>
   );
-  
 };
 
 export default SetGoals;
