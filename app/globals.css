@@ -42,11 +42,11 @@
 
 /* Apply the animation to the slide-in-element class */
 .slide-in-element {
-    animation: slideIn 0.5s ease-in-out;
+	animation: slideIn 0.5s ease-in-out;
 }
 
 .slide-out-element {
-    animation: slideIn 0.5s ease-in-out;
+	animation: slideIn 0.5s ease-in-out;
 }
 a,
 h1,
@@ -70,8 +70,6 @@ div {
 	@apply flex flex-col justify-center items-center;
 	position: relative;
 }
-
-
 
 .profile {
 	/* background: url("../public/assets/profile-background.svg") no-repeat; */
@@ -239,9 +237,10 @@ body {
 
 .buynow-wrapper {
 	display: flex;
-	justify-content: space-around;
+	justify-content: space-between;
 	width: 100%;
 	align-items: center;
+	padding: 0 0.5rem;
 }
 
 /* .offset-icon {
@@ -353,7 +352,7 @@ body {
 	color: #005eee;
 
 	text-align: center;
-	font-size: 14px;
+	font-size: 18px;
 	font-style: normal;
 	font-weight: 400;
 	line-height: 120%;
@@ -610,7 +609,7 @@ input[type="range"]::-webkit-slider-thumb {
 	letter-spacing: -0.3px;
 }
 
-.swiper-slide{
+.swiper-slide {
 	display: flex !important;
 	justify-content: center !important;
 	/* transform: translate3d(280px, 0, 280px) !important; */
@@ -618,7 +617,7 @@ input[type="range"]::-webkit-slider-thumb {
 	/* margin-right: 10% !important; */
 }
 
-.recharts-layer.recharts-polar-radius-axis{
+.recharts-layer.recharts-polar-radius-axis {
 	display: none;
 }
 .search-box-wrapper input {
@@ -785,17 +784,15 @@ input[type="range"]::-webkit-slider-thumb {
 	gap: 0.5rem;
 }
 
-.swiper-wrapper{
+.swiper-wrapper {
 	width: 100%;
 }
-.swiper-wrapper{
+.swiper-wrapper {
 	display: flex;
 }
-.swiper-slide{
+.swiper-slide {
 	flex-shrink: unset !important;
 }
-.tips-icon img .plants{
-	fill :white
-
+.tips-icon img .plants {
+	fill: white;
 }
-
