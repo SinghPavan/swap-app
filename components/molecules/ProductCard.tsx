@@ -4,7 +4,7 @@ import Image from "next/image";
 const ProductCard = (props: any) => {
   function handleCartWire(e: any) {
     
-    (window as any)?.loadsWidget('51f53e6eb07eaba25291af265b15d458', e,'retailPopup','en');
+    (window as any)?.loadsWidget('166e9ca9fbb38bad6001ec24f42b3377', e,'retailPopup','en');
     
   }
 
@@ -57,7 +57,7 @@ const ProductCard = (props: any) => {
           )}
         </span> */}
         {props.product.price && <div className="buynow-wrapper">
-          <p className="product-price">From £{props?.product?.price}</p>
+          <p className="product-price">From £{props?.product?.price}.00</p>
           <button className="product-buyNow"  onClick={handleCartWire}></button>
         </div>}
       </div>
