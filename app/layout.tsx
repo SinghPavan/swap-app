@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   title: "SWAP",
   description:
     "Swapping for Wellness, Affordability, and Planet –Making Every Choice Count!",
+  manifest: "/manifest.webmanifest",
 };
 
 export default function RootLayout({

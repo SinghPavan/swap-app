@@ -12,10 +12,10 @@ const GoalSetting = () => {
   //   community: 3,
   // });
   const contextValue = useContext(GoalsContext);
-  if(!contextValue){
+  if (!contextValue) {
     return null;
   }
-  const {goalPoints, setGoalPoints} = contextValue;
+  const { goalPoints, setGoalPoints } = contextValue;
   console.log("goals", goalPoints);
   const handleChange = (e: any) => {
     const { name, value } = e.target;

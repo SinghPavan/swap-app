@@ -3,7 +3,7 @@ import SSO from "@/components/SSO";
 import SignUpForm from "@/components/SignUpForm";
 import Image from "next/image";
 import Link from "next/link";
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { UserContext } from "@/utils/context";
 
 const Signup = () => {
@@ -11,6 +11,10 @@ const Signup = () => {
     firstname: "",
     lastname: "",
   });
+
+  useEffect(() => {
+    localStorage.clear();
+  }, []);
 
   return (
     <UserContext.Provider value={{ userData, setUserData }}>

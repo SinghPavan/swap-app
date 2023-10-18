@@ -44,7 +44,7 @@ const settings = {
   ],
 };
 
-const renderCards = (offsetGoals) => {
+const renderCards = (offsetGoals: any) => {
   let offsetRender: any = [];
 
   offsetGoals.forEach((item: any, index: number) => {
@@ -58,12 +58,14 @@ const renderCards = (offsetGoals) => {
 
   return offsetRender;
 };
-const Results = ({ sku = "8006540810743" }) => {
-  const product = productData.scanResult.filter((item) => item.sku === sku);
+const Results = () => {
+  const product = productData.scanResult.filter(
+    (item: any) => item.sku === "8006540810743"
+  );
 
   const alternateProductGoals =
-    product[0].alternateProduct.userLifeGoalMatch -
-    product[0].userLifeGoalMatch;
+    product[0]?.alternateProduct?.userLifeGoalMatch -
+    product[0]?.userLifeGoalMatch;
 
   const offsetGoals = productData.userOffsetActivities;
 
@@ -100,8 +102,8 @@ const Results = ({ sku = "8006540810743" }) => {
         <ProductCard
           product={product[0]}
           full={true}
-          userGoalsMatched={product[0].userLifeGoalMatch}
-          isUnileverProduct={product[0].isUnileverProduct}
+          userGoalsMatched={product[0]?.userLifeGoalMatch}
+          isUnileverProduct={product[0]?.isUnileverProduct}
         />
       </div>
       <div className="alternate-product-wrapper">
@@ -118,7 +120,7 @@ const Results = ({ sku = "8006540810743" }) => {
           Waste reduction / Refillable Products
         </p>
         <ProductCard
-          product={product[0].alternateProduct.product}
+          product={product[0]?.alternateProduct.product}
           full={false}
         />
       </div>
