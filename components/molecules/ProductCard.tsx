@@ -41,11 +41,11 @@ const ProductCard = (props: any) => {
       </Head>
       {props.full && (
         <div className="top-section justify-between items-center flex p-4">
-          <div className="goal-indicator">
-            <h1 className="text-blue-500">
+          <div className="goal-indicator flex gap-2">
+            <span className="text-primary px-4 py-2 font-bold bg-lightYellow rounded-full">
               {props.userGoalsMatched} GOAL
               {props.userGoalsMatched > 1 ? "S" : ""} MATCHED
-            </h1>
+            </span>
             <span className="light-icon flex"></span>
           </div>
           <span

@@ -83,7 +83,7 @@ const Results = () => {
   return (
     <div className="result-page-wrapper relative overflow-x-hidden overflow-y-scroll">
       {renderNotification && (
-        <Alert>
+        <Alert className="absolute">
           <Image
             className="swap-logo"
             src="/assets/swap-logo.svg"

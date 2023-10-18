@@ -313,6 +313,7 @@
     {
       "offsetActivity": "Buy local and seasonal produce",
       "description": "Purchase locally grown and seasonal produce to reduce food miles and support regional agriculture.",
+      "iconUrl": "",
       "health": 4,
       "wellbeing": 4,
       "affordability": 4,
@@ -322,6 +323,7 @@
     {
       "offsetActivity": "Donate to environmental organizations",
       "description": "Contribute to environmental organizations to support their vital work in conservation and sustainability.",
+      "iconUrl": "/assets/donate-environment.svg",
       "health": 0,
       "wellbeing": 0,
       "affordability": 0,
@@ -331,6 +333,7 @@
     {
       "offsetActivity": "Use public transportation",
       "description": "Opt for buses, trains, or trams to reduce your carbon footprint and ease traffic congestion.",
+      "iconUrl": "/assets/public-transport.svg",
       "health": 0,
       "wellbeing": 0,
       "affordability": 5,
@@ -340,6 +343,7 @@
     {
       "offsetActivity": "Reduce water usage (shorter showers, fix leaks)",
       "description": "Conserve water by taking shorter showers and fixing leaks, helping to protect this precious resource.",
+      "iconUrl": "/assets/save-water.svg",
       "health": 0,
       "wellbeing": 0,
       "affordability": 4,

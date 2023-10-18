@@ -4,13 +4,6 @@ import Image from "next/image";
 import React, { useContext } from "react";
 
 const GoalSetting = () => {
-  // const [goalPoints, setGoalPoints] = useState({
-  //   health: 3,
-  //   wellbeing: 3,
-  //   smarter: 3,
-  //   sustainable: 3,
-  //   community: 3,
-  // });
   const contextValue = useContext(GoalsContext);
   if (!contextValue) {
     return null;
@@ -22,45 +15,78 @@ const GoalSetting = () => {
 
     if (name === "health") {
       const newValue = Number(value);
-      const updatedMetrics = { ...goalPoints };
-
-      if (goalPoints.wellbeing <= newValue) {
-        updatedMetrics.wellbeing += 1;
+      const goalMetrices = { ...goalPoints };
+      if (goalPoints.health < newValue) {
+        if (goalPoints.health < 5) {
+          goalMetrices.health = newValue;
+        }
+        if (goalPoints.wellbeing <= newValue && goalPoints.wellbeing < 5) {
+          goalMetrices.wellbeing += 1;
+        }
+        if (goalPoints.smarter > 2) {
+          goalMetrices.smarter -= 1;
+        }
+        if (goalPoints.sustainable <= newValue && goalPoints.sustainable < 5) {
+          goalMetrices.sustainable += 1;
+        }
+        if (newValue > 4 && goalPoints.community < 5) {
+          goalMetrices.community += 1;
+        }
+      } else {
+        if (goalPoints.health >= 1) {
+          goalMetrices.health = newValue;
+        }
+        if (goalPoints.wellbeing >= newValue && goalPoints.wellbeing > 1) {
+          goalMetrices.wellbeing -= 1;
+        }
+        if (goalPoints.smarter < 4) {
+          goalMetrices.smarter += 1;
+        }
+        if (goalPoints.sustainable > 2) {
+          goalMetrices.sustainable -= 1;
+        }
+        if (goalPoints.health < 2) {
+          goalMetrices.community -= 1;
+        }
       }
-
-      if (goalPoints.smarter > 2) {
-        updatedMetrics.smarter -= 1;
+      setGoalPoints({ ...goalMetrices });
+    } else if (name === "smarter") {
+      const newValue = Number(value);
+      const goalMetrices = { ...goalPoints };
+      if (goalPoints.smarter < newValue) {
+        if (goalPoints.smarter >= 1) {
+          goalMetrices.smarter = newValue;
+        }
+        if (newValue > 2 && goalMetrices.health > 1) {
+          goalMetrices.health -= 1;
+        }
+        if (newValue > 2 && goalMetrices.wellbeing > 1) {
+          goalMetrices.wellbeing -= 1;
+        }
+        if (newValue > 2 && goalMetrices.sustainable > 1) {
+          goalMetrices.sustainable -= 1;
+        }
+        if (newValue > 4 && goalMetrices.community > 1) {
+          goalMetrices.community -= 1;
+        }
+      } else {
+        if (goalPoints.smarter >= 1) {
+          goalMetrices.smarter = newValue;
+        }
+        if (goalMetrices.health < 5) {
+          goalMetrices.health += 1;
+        }
+        if (goalMetrices.wellbeing < 5) {
+          goalMetrices.wellbeing += 1;
+        }
+        if (goalMetrices.sustainable < 5) {
+          goalMetrices.sustainable += 1;
+        }
+        if (goalMetrices.community < 5) {
+          goalMetrices.community += 1;
+        }
       }
-
-      if (goalPoints.sustainable <= newValue) {
-        updatedMetrics.sustainable += 1;
-      }
-
-      // if (goalPoints.health >= 4) {
-      //   updatedMetrics.community += 1;
-      // }
-
-      if (newValue >= 4 && updatedMetrics.community < 5) {
-        updatedMetrics.community += 1;
-      }
-
-      if (goalPoints.wellbeing >= newValue) {
-        updatedMetrics.wellbeing -= 1;
-      }
-
-      if (goalPoints.smarter < 4) {
-        updatedMetrics.smarter += 1;
-      }
-
-      if (goalPoints.sustainable > 2) {
-        updatedMetrics.sustainable -= 1;
-      }
-
-      if (newValue < 2 && updatedMetrics.community > 1) {
-        updatedMetrics.community -= 1;
-      }
-
-      setGoalPoints({ ...updatedMetrics, [name]: newValue });
+      setGoalPoints({ ...goalMetrices });
     } else {
       setGoalPoints({ ...goalPoints, [name]: Number(value) });
     }

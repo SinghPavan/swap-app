@@ -19,7 +19,7 @@ const tipsData = [
     route: "/scan",
   },
   {
-    icon: "/assets/tips.svg",
+    icon: "/assets/green-space.svg",
     title: "Maintain green spaces",
     description:
       "Plant trees and maintain green spaces in your community to enhance... ",
@@ -42,7 +42,7 @@ const Profile = () => {
 
   return (
     <div className="profile flex flex-col items-center px-4 slide-in-element overflow-y-scroll overflow-x-hidden">
-      <p className=" text-xl text-center mt-5 mb-2.5">Profile</p>
+      {/* <p className=" text-xl text-center mt-5 mb-2.5">Profile</p> */}
       <Image
         src={"/assets/profile.jpg"}
         alt="profileImage"
@@ -50,7 +50,8 @@ const Profile = () => {
         height={225}
         className="rounded-full"
       />
-      <p className="text-2xl mt-4 text-lightYellow font-black ">{`${userData?.firstname} ${userData?.lastname}`}</p>
+      <p className="text-2xl mt-4 text-lightYellow font-black  ">{`Good Afternoon, `}</p>
+      <p className="text-2xl text-lightYellow font-black ">{`${userData?.firstname}`}</p>
       <p className="text-center text-sm ">
         Earn more points to unlock rewards and support sustainable initiatives
       </p>
