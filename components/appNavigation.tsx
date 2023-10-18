@@ -7,7 +7,7 @@ const AppNavigation = () => {
     <div className="app-navigation">
       <div className="home-button">
         <button className="app-navigation-button">
-          <Link href="/results" role="button">
+          <Link href="/profile" role="button">
             <div className="home-icon" />
             Home
           </Link>
@@ -45,10 +45,10 @@ const AppNavigation = () => {
       </div>
       <div className="profile-button">
         <button className="app-navigation-button">
-          <Link href="/profile" role="button">
-            <div className="profile-icon" />
-            Profile
-          </Link>
+          {/* <Link href="/profile" role="button"> */}
+          <div className="profile-icon" />
+          Profile
+          {/* </Link> */}
         </button>
       </div>
     </div>
