@@ -1,44 +1,20 @@
 import React from "react";
 import Image from "next/image";
-import Head from "next/head";
-
-declare global {
-  interface Window {
-    loadsWidget: (
-      arg1: string,
-      arg2: HTMLElement | null,
-      arg3: string,
-      arg4: string
-    ) => void;
-  }
-}
-
-const handleBinOnClick = (event: any) => {
-  // (window as any["loadsWidget"])(
-  //   "51f53e6eb07eaba25291af265b15d458",
-  //   event.currentTaget,
-  //   "retailPopup",
-  //   "en"
-  // );
-  window?.loadsWidget(
-    "51f53e6eb07eaba25291af265b15d458",
-    event.currentTarget,
-    "retailPopup",
-    "en"
-  );
-};
 
 const ProductCard = (props: any) => {
+  function handleCartWire(e: any) {
+    (window as any)?.loadsWidget(
+      "166e9ca9fbb38bad6001ec24f42b3377",
+      e,
+      "retailPopup",
+      "en"
+    );
+  }
+
   return !props.renderForListing ? (
     <div
       className={`product-card-wrapper ${props.smallFonts ? "font-small" : ""}`}
     >
-      <Head>
-        <script
-          src="https://s3.cartwire.co/widget/js/widget_master_v2.js"
-          async
-        />
-      </Head>
       {props.full && (
         <div className="top-section justify-between items-center flex p-4">
           <div className="goal-indicator flex gap-2">
@@ -83,10 +59,10 @@ const ProductCard = (props: any) => {
         </span>
         {props?.isUnileverProduct && (
           <div className="buynow-wrapper">
-            <p className="product-price">From £{props?.product.price}</p>
+            <p className="product-price">From £{props?.product?.price}</p>
             <button
               className="product-buyNow"
-              onClick={(event) => handleBinOnClick(event)}
+              onClick={handleCartWire}
             ></button>
           </div>
         )}
