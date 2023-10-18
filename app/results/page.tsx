@@ -8,7 +8,7 @@ import Alert from "../../components/Alert";
 import Image from "next/image";
 import productData from "../../data/productsForDemo.json";
 import { Swiper, SwiperSlide } from "swiper/react";
-
+import { useRouter } from "next/navigation";
 const settings = {
   dots: true,
   infinite: false,
@@ -59,6 +59,8 @@ const renderCards = (offsetGoals: any) => {
   return offsetRender;
 };
 const Results = () => {
+  const router = useRouter();
+
   const product = productData.scanResult.filter(
     (item: any) => item.sku === "8006540810743"
   );
@@ -71,32 +73,33 @@ const Results = () => {
 
   const [renderNotification, setRenderNotification] = useState(false);
 
-  useEffect(() => {
-    setTimeout(() => {
-      setRenderNotification(false);
-    }, 5000);
-  }, [renderNotification]);
-
   const handleIconOnClick = () => {
     setRenderNotification(true);
   };
   return (
     <div className="result-page-wrapper relative overflow-x-hidden overflow-y-scroll">
       {renderNotification && (
-        <Alert className="absolute">
-          <Image
-            className="swap-logo"
-            src="/assets/swap-logo.svg"
-            alt="Logo"
-            width={224}
-            height={112}
-          />
-          <h2>🌟 Your Goals, Your Savings at Boots</h2>
-          <h3>
-            Explore products that support your life goals and save big. Click to
-            see the offers!
-          </h3>
-        </Alert>
+        <div
+          onClick={() => {
+            setRenderNotification(false);
+            router.push("product-listing");
+          }}
+        >
+          <Alert className="absolute">
+            <Image
+              className="swap-logo"
+              src="/assets/swap-logo.svg"
+              alt="Logo"
+              width={224}
+              height={112}
+            />
+            <h2>🌟 Your Goals, Your Savings at Boots</h2>
+            <h3>
+              Explore products that support your life goals and save big. Click
+              to see the offers!
+            </h3>
+          </Alert>
+        </div>
       )}
       <div>
         <ProductCard
@@ -117,7 +120,7 @@ const Results = () => {
           {alternateProductGoals > 1 ? "s" : ""}!
         </h3>
         <p className="alternate-product-description">
-        Health, Wellbeing, and Affordability
+          Health, Wellbeing, and Affordability
         </p>
         <ProductCard
           product={product[0]?.alternateProduct.product}
