@@ -19,7 +19,7 @@ const tipsData = [
     route: "/scan",
   },
   {
-    icon: "/assets/green-space.svg",
+    icon: "/assets/donate-environment.svg",
     title: "Maintain green spaces",
     description:
       "Plant trees and maintain green spaces in your community to enhance... ",

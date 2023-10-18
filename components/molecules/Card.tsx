@@ -18,7 +18,7 @@ const Card = ({
       <div className="offset-icon">
         {offset.iconUrl && (
           <Image
-            className="bg-lightPink rounded-full"
+            className="bg-lightPink rounded-full p-3"
             src={offset.iconUrl}
             alt="Logo"
             width={76}

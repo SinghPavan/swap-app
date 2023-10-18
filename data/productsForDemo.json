@@ -312,8 +312,8 @@
   "userOffsetActivities": [
     {
       "offsetActivity": "Buy local and seasonal produce",
+      "iconUrl": "/assets/seasonal-food.svg",
       "description": "Purchase locally grown and seasonal produce to reduce food miles and support regional agriculture.",
-      "iconUrl": "",
       "health": 4,
       "wellbeing": 4,
       "affordability": 4,

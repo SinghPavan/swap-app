@@ -74,7 +74,7 @@ const Results = () => {
   useEffect(() => {
     setTimeout(() => {
       setRenderNotification(false);
-    }, 3000);
+    }, 5000);
   }, [renderNotification]);
 
   const handleIconOnClick = () => {

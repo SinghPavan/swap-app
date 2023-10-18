@@ -794,4 +794,8 @@ input[type="range"]::-webkit-slider-thumb {
 .swiper-slide{
 	flex-shrink: unset !important;
 }
+.tips-icon img .plants{
+	fill :white
+
+}
 
