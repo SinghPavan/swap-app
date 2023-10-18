@@ -1,7 +1,15 @@
 import React from "react";
 import Image from "next/image";
+// import "https://s3.cartwire.co/widget/js/widget_master_v2.js";
+
 
 const productCard = (props: any) => {
+  function handleCartWire(e: any) {
+    
+    (window as any)?.loadsWidget('166e9ca9fbb38bad6001ec24f42b3377', e,'retailPopup','en');
+    
+  }
+
   return !props.renderForListing ? (
     <div
       className={`product-card-wrapper ${props.smallFonts ? "font-small" : ""}`}
@@ -52,7 +60,7 @@ const productCard = (props: any) => {
         </span>
         <div className="buynow-wrapper">
           <p className="product-price">From £{props?.product?.price}</p>
-          <button className="product-buyNow"></button>
+          <button className="product-buyNow" onClick={handleCartWire} ></button>
         </div>
       </div>
     </div>
