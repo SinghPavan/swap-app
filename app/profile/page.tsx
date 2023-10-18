@@ -20,10 +20,10 @@ const tipsData = [
   },
   {
     icon: "/assets/tips.svg",
-    title: "Plant trees and maintain green spaces",
+    title: "Maintain green spaces",
     description:
-      "Plant trees and maintain green spaces in your community to enhance local ecosystems and air quality.",
-    button: "Scan a product",
+      "Plant trees and maintain green spaces in your community to enhance... ",
+    button: "Read more",
     route: "/scan",
   },
 ];
